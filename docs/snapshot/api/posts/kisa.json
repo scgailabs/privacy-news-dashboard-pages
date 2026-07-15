@@ -1,6 +1,32 @@
 {
-  "count": 35,
+  "count": 37,
   "data": [
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-07-15T18:01:48.663614+09:00",
+      "created_at": "2026-07-15T18:01:48.663614+09:00",
+      "hits": "11",
+      "id": 10981,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3719&page=1",
+      "post_date": "2026-07-15",
+      "post_number": "공지",
+      "title": "AI 기반 소스코드 취약점 점검 서비스 안내"
+    },
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-07-15T17:31:36.060314+09:00",
+      "created_at": "2026-07-15T17:31:36.060314+09:00",
+      "hits": "17",
+      "id": 10943,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3718&page=1",
+      "post_date": "2026-07-15",
+      "post_number": "New",
+      "title": "일상, 생활, 산업 현장 등에서 활용 가능한 위치정보 기반 안전 솔루션 모집공고"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -461,5 +487,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 35
+  "total_count": 37
 }
