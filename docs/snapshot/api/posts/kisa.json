@@ -1,6 +1,19 @@
 {
-  "count": 34,
+  "count": 35,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-07-15T14:01:31.783249+09:00",
+      "created_at": "2026-07-15T14:01:31.783249+09:00",
+      "hits": "18",
+      "id": 10663,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3717&page=1",
+      "post_date": "2026-07-15",
+      "post_number": "New",
+      "title": "[공지] 2026년 가명정보 전문인력 양성교육 교육생 모집 및 일정 안내"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -448,5 +461,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 34
+  "total_count": 35
 }
