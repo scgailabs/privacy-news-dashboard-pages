@@ -1,0 +1,450 @@
+<!-- File Path : privacy-news-crawler/dashboard/templates/index.html -->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>개인정보 보호 뉴스 대시보드</title>
+  <link rel="stylesheet" href="static/css/style.css">
+  <style>
+    /* 검색 키워드 하이라이트 */
+    mark.search-highlight {
+      background-color: #ffe066;
+      color: #333;
+      padding: 1px 2px;
+      border-radius: 2px;
+      font-weight: 600;
+    }
+    html.dark mark.search-highlight {
+      background-color: #b8860b;
+      color: #fff;
+    }
+
+    /* 법제처 하위 섹션 (보도자료/입법예고) — 배경 없이 일반 사이트와 동일 */
+    .moleg-subsection .td-title-cell {
+      max-width: 400px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .moleg-subsection .td-title-cell a {
+      display: block;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    /* 일반 사이트 제목 셀도 truncation 적용 (마우스 오버로 풀네임 확인) */
+    .data-table .td-title-cell {
+      max-width: 400px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .data-table .td-title-cell a {
+      display: block;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    /* 테이블 행 높이 축소 (compact) */
+    .data-table th,
+    .data-table td {
+      padding: 6px 10px;
+      line-height: 1.35;
+      font-size: 0.88em;
+    }
+    .data-table .td-title-cell a {
+      line-height: 1.35;
+    }
+    .data-table .badge,
+    .data-table .board-type-badge {
+      padding: 1px 6px;
+      font-size: 0.78em;
+    }
+
+    /* 더보기 버튼 스타일 */
+    .load-more-row {
+      text-align: center;
+      padding: 8px 0;
+      border-top: 1px dashed var(--border, #ddd);
+    }
+    .load-more-row .load-more-btn {
+      letter-spacing: 1px;
+      font-size: 0.85em;
+      opacity: 0.8;
+    }
+    .load-more-row .load-more-btn:hover {
+      opacity: 1;
+    }
+
+    /* 스크롤 영역 내 테이블 헤더 고정 */
+    .table-scroll table.data-table thead {
+      position: sticky;
+      top: 0;
+      z-index: 2;
+      background: var(--bg-card, #fff);
+    }
+    html.dark .table-scroll table.data-table thead {
+      background: var(--bg-card-dark, #1e1e2e);
+    }
+
+    /* 이메일 수신자 목록 스타일 */
+    .recipient-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 7px 10px;
+      border-bottom: 1px solid var(--border, #eee);
+      font-size: 0.85em;
+      gap: 8px;
+    }
+    .recipient-row:last-child { border-bottom: none; }
+    .recipient-info {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex: 1;
+      min-width: 0;
+    }
+    .recipient-email {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .recipient-name {
+      color: var(--text-muted, #888);
+      font-size: 0.9em;
+      flex-shrink: 0;
+    }
+    .badge-default {
+      background: #27AE60;
+      color: #fff;
+      font-size: 0.7em;
+      padding: 1px 6px;
+      border-radius: 8px;
+      flex-shrink: 0;
+      font-weight: 600;
+    }
+    .badge-manual {
+      background: #7f8c8d;
+      color: #fff;
+      font-size: 0.7em;
+      padding: 1px 6px;
+      border-radius: 8px;
+      flex-shrink: 0;
+    }
+    .toggle-btn {
+      font-size: 0.78em;
+      padding: 2px 10px;
+      border-radius: 4px;
+      border: 1px solid var(--border, #ccc);
+      cursor: pointer;
+      flex-shrink: 0;
+      background: transparent;
+      transition: background 0.2s, color 0.2s;
+    }
+    .toggle-btn.active {
+      background: #27AE60;
+      color: #fff;
+      border-color: #27AE60;
+    }
+    .toggle-btn.inactive {
+      background: #e74c3c;
+      color: #fff;
+      border-color: #e74c3c;
+    }
+
+    /* 자동 새로고침 표시 — 기본 스타일은 style.css로 이동 */
+    @media (max-width: 768px) {
+      .refresh-indicator { display: none; }
+    }
+  </style>
+  <script>
+    /* 다크 모드 조기 적용 (FOUC 방지) */
+    (function(){try{if(localStorage.getItem('darkMode')==='true')document.documentElement.classList.add('dark')}catch(e){}})();
+  </script>
+</head>
+<body>
+
+  <!-- ═══ 상단 네비게이션 ═══ -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <div class="nav-brand">🛡️ Privacy News</div>
+      <div class="nav-tabs">
+        <button class="nav-tab active" data-tab="tab-data">크롤링 데이터</button>
+        <button class="nav-tab" data-tab="tab-law">법령 검색</button>
+        <button class="nav-tab" data-tab="tab-monitor">시스템 모니터</button>
+      </div>
+      <div class="nav-actions">
+        <span id="last-refresh-time" class="refresh-indicator"></span>
+        <button id="auto-refresh-toggle" class="btn-nav-text auto-refresh-btn" title="자동 새로고침 ON/OFF">⏸ 자동갱신 모드</button>
+        <button id="email-toggle" class="btn-nav-text" title="이메일 수신 등록/해제">📧 이메일 수신</button>
+        <button id="theme-toggle" class="btn-nav-text" title="테마 전환">🌙 다크모드</button>
+        <button id="nav-hamburger" class="btn-icon nav-hamburger">☰</button>
+      </div>
+    </div>
+    <!-- 모바일 메뉴 -->
+    <div class="nav-mobile" id="nav-mobile">
+      <button class="nav-tab-mobile active" data-tab="tab-data">크롤링 데이터</button>
+      <button class="nav-tab-mobile" data-tab="tab-law">법령 검색</button>
+      <button class="nav-tab-mobile" data-tab="tab-monitor">시스템 모니터</button>
+    </div>
+  </nav>
+
+  <!-- ═══ 이메일 등록/해제 모달 ═══ -->
+  <div class="modal-overlay" id="email-modal" style="display:none;">
+    <div class="modal-content" style="max-width:600px;">
+      <div class="modal-header">
+        <h3>📧 이메일 수신 관리</h3>
+        <button class="btn-icon modal-close" id="email-modal-close">✕</button>
+      </div>
+      <div class="modal-body">
+        <div class="filter-group" style="width:100%;">
+          <label>이메일 주소</label>
+          <div style="display:flex; gap:6px;">
+            <input type="email" id="email-input" placeholder="example@email.com" style="flex:1;" />
+            <input type="text" id="email-name-input" placeholder="이름 (선택)" style="width:120px;" />
+          </div>
+        </div>
+        <div id="email-result" class="email-result" style="display:none;"></div>
+        <div style="display:flex; gap:8px; margin-top:10px;">
+          <button class="btn btn-primary" id="email-subscribe-btn">수신 등록</button>
+          <button class="btn btn-outline" id="email-unsubscribe-btn">수신 해제</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══ 메인 컨테이너 ═══ -->
+  <main class="main">
+
+    <!-- ━━━━ TAB 1: 크롤링 데이터 ━━━━ -->
+    <section id="tab-data" class="tab-panel active">
+
+      <!-- 요약 카드 -->
+      <div class="card-grid" id="summary-cards">
+        <div class="summary-card" data-site="moleg_legis">
+          <div class="summary-icon">📋</div>
+          <div class="summary-body">
+            <h3>법제처(입법예고)</h3>
+            <p class="summary-count">--</p>
+            <span class="summary-sub">최신 수집: --</span>
+            <span class="summary-last-success"></span>
+          </div>
+        </div>
+        <div class="summary-card" data-site="moleg_news">
+          <div class="summary-icon">⚖️</div>
+          <div class="summary-body">
+            <h3>법제처(보도자료)</h3>
+            <p class="summary-count">--</p>
+            <span class="summary-sub">최신 수집: --</span>
+            <span class="summary-last-success"></span>
+          </div>
+        </div>
+        <div class="summary-card" data-site="pipc">
+          <div class="summary-icon">🏛️</div>
+          <div class="summary-body">
+            <h3>개인정보보호위원회</h3>
+            <p class="summary-count">--</p>
+            <span class="summary-sub">최신 수집: --</span>
+            <span class="summary-last-success"></span>
+          </div>
+        </div>
+        <div class="summary-card" data-site="kisa">
+          <div class="summary-icon">🔒</div>
+          <div class="summary-body">
+            <h3>KISA (한국인터넷진흥원)</h3>
+            <p class="summary-count">--</p>
+            <span class="summary-sub">최신 수집: --</span>
+            <span class="summary-last-success"></span>
+          </div>
+        </div>
+        <div class="summary-card" data-site="privacy">
+          <div class="summary-icon">🔐</div>
+          <div class="summary-body">
+            <h3>개인정보포털</h3>
+            <p class="summary-count">--</p>
+            <span class="summary-sub">최신 수집: --</span>
+            <span class="summary-last-success"></span>
+          </div>
+        </div>
+      </div>
+
+      <!-- 필터바 + 다운로드바 -->
+      <div class="filter-download-row">
+        <div class="filter-bar" style="margin-bottom:0;">
+          <div class="filter-group">
+            <label>From</label>
+            <input type="date" id="data-from" />
+          </div>
+          <div class="filter-group">
+            <label>To</label>
+            <input type="date" id="data-to" />
+          </div>
+          <div class="filter-group">
+            <label>검색</label>
+            <input type="text" id="data-search" placeholder="검색어 입력..." />
+          </div>
+          <button class="btn btn-primary" id="data-filter-btn">조회</button>
+          <button class="btn btn-outline" id="data-reset-btn">초기화</button>
+        </div>
+        <div class="download-bar">
+          <div class="filter-group">
+            <label>다운로드</label>
+            <select id="download-site-select" class="select-input">
+              <option value="all">전체</option>
+              <option value="moleg_legis">법제처(입법예고)</option>
+              <option value="moleg_news">법제처(보도자료)</option>
+              <option value="pipc">개인정보보호위원회</option>
+              <option value="kisa">KISA (한국인터넷진흥원)</option>
+              <option value="privacy">개인정보포털</option>
+            </select>
+          </div>
+          <button class="btn btn-primary" id="download-btn">⬇ xlsx</button>
+        </div>
+      </div>
+
+      <!-- 사이트별 데이터 테이블 -->
+      <div id="data-tables-container">
+        <div class="loading-placeholder">데이터를 불러오는 중...</div>
+      </div>
+    </section>
+
+    <!-- ━━━━ TAB 2: 법령 검색 ━━━━ -->
+    <section id="tab-law" class="tab-panel">
+      <div class="section-header">
+        <h2>법제처 국가법령정보센터 법령정보 검색</h2>
+      </div>
+
+      <div class="law-search-bar">
+        <div class="law-search-input-wrap">
+          <input type="text" id="law-fromdate" placeholder="검색 시작일 (YYYYMMDD) 예) 20250101" maxlength="8" />
+        </div>
+        <button class="btn btn-primary btn-law-search" id="law-search-btn">검색</button>
+      </div>
+
+      <div id="law-loading" class="loading-animate" style="display:none; text-align:center; margin:20px;">
+        검색 중...
+      </div>
+
+      <div id="law-result-container">
+        <p class="placeholder-text">fromdate 값을 입력하고 검색 버튼을 누르면 결과가 표시됩니다.</p>
+      </div>
+    </section>
+
+    <!-- ━━━━ TAB 3: 시스템 모니터 ━━━━ -->
+    <section id="tab-monitor" class="tab-panel">
+      <div class="section-header">
+        <h2>시스템 모니터링</h2>
+        <button class="btn btn-outline btn-sm" id="monitor-refresh-btn">🔄 새로고침</button>
+      </div>
+
+      <!-- 시스템 상태 카드 -->
+      <div class="card-grid" id="system-cards">
+        <div class="status-card" id="status-db">
+          <div class="status-indicator"></div>
+          <div class="status-body">
+            <h4>Database</h4>
+            <span class="status-label">확인 중...</span>
+          </div>
+        </div>
+        <div class="status-card" id="status-selenium">
+          <div class="status-indicator"></div>
+          <div class="status-body">
+            <h4>Selenium</h4>
+            <span class="status-label">확인 중...</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- 크롤링 실행 결과 타임라인 -->
+      <div class="panel">
+        <h3 class="panel-title">📊 크롤링 실행 결과 타임라인 (최근 7일)</h3>
+        <div class="timeline-chart" id="timelineChart">
+          <div id="timelineDates"></div>
+          <div class="timeline-grid" id="timelineGrid"></div>
+        </div>
+        <div class="timeline-legend">
+          <div class="timeline-legend-item"><div class="timeline-legend-dot tl-success"></div>성공 (SUCCESS)</div>
+          <div class="timeline-legend-item"><div class="timeline-legend-dot tl-no-data"></div>데이터 없음 (NO_DATA)</div>
+          <div class="timeline-legend-item"><div class="timeline-legend-dot tl-fail"></div>실패 (FAILED)</div>
+          <div class="timeline-legend-item"><div class="timeline-legend-dot tl-empty"></div>미실행</div>
+        </div>
+        <div class="timeline-tooltip" id="timelineTooltip"></div>
+      </div>
+
+      <!-- 크롤링 진행률 -->
+      <div class="panel">
+        <h3 class="panel-title">크롤링 진행률</h3>
+        <div id="progress-container" class="progress-grid">
+          <div class="loading-placeholder">데이터 로딩 중...</div>
+        </div>
+      </div>
+
+      <!-- 최근 크롤링 로그 -->
+      <div class="panel">
+        <h3 class="panel-title">최근 크롤링 로그</h3>
+        <div id="crawl-logs-container" class="table-scroll">
+          <div class="loading-placeholder">데이터 로딩 중...</div>
+        </div>
+      </div>
+
+      <!-- 알림 이력 -->
+      <div class="panel">
+        <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
+          <h3 class="panel-title" style="margin:0;">최근 알림 이력</h3>
+          <div style="display:flex; gap:6px; align-items:center;">
+            <select id="alert-channel-filter" class="select-input" style="font-size:0.85em; padding:4px 8px;">
+              <option value="">전체 채널</option>
+              <option value="news">Discord (뉴스)</option>
+              <option value="notify">Discord (알림)</option>
+              <option value="email">Gmail</option>
+              <option value="daily_digest">Gmail (일일 다이제스트)</option>
+              <option value="initial_summary">Gmail (초기 요약)</option>
+            </select>
+          </div>
+        </div>
+        <div id="alerts-container" class="table-scroll">
+          <div class="loading-placeholder">데이터 로딩 중...</div>
+        </div>
+      </div>
+
+      <!-- 터미널 로그 뷰어 -->
+      <div class="panel">
+        <h3 class="panel-title">로그 뷰어</h3>
+        <div class="log-viewer-controls">
+          <select id="log-file-select" class="select-input">
+            <option value="">파일 선택...</option>
+          </select>
+          <button class="btn btn-outline btn-sm" id="log-load-btn">불러오기</button>
+          <button class="btn btn-outline btn-sm" id="log-auto-scroll" title="자동 스크롤">⬇️ Auto</button>
+        </div>
+        <pre class="log-terminal" id="log-terminal">로그 파일을 선택하세요...</pre>
+      </div>
+    </section>
+
+  </main>
+
+  
+    <script>
+      window.SNAPSHOT_MODE = true;
+      window.SNAPSHOT_PROJECT = "privacy-news";
+      window.SNAPSHOT_META_URL = 'snapshot/meta.json';
+    </script>
+    <script src="static/js/snapshot-adapter.js"></script>
+    <script src="static/js/script.js"></script>
+
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        fetch('snapshot/meta.json').then(function(r){return r.json();}).then(function(meta){
+          var el = document.createElement('div');
+          el.style.cssText = 'position:fixed;right:16px;bottom:16px;z-index:9999;padding:8px 12px;border-radius:999px;background:rgba(30,64,175,.92);color:#fff;font-size:12px;box-shadow:0 8px 24px rgba(0,0,0,.18)';
+          el.textContent = '정적 스냅샷 · ' + (meta.generated_at_kst || '');
+          document.body.appendChild(el);
+        }).catch(function(){});
+      });
+    </script>
+</body>
+</html>

@@ -1,0 +1,69 @@
+{
+  "crawl_statuses": {
+    "kisa": {
+      "last_run": null,
+      "status": "never"
+    },
+    "moleg_legis": {
+      "last_run": "2026-07-15T09:45:12.670221+09:00",
+      "status": "success"
+    },
+    "moleg_news": {
+      "last_run": "2026-07-15T09:45:22.358989+09:00",
+      "status": "success"
+    },
+    "pipc": {
+      "last_run": null,
+      "status": "never"
+    },
+    "privacy": {
+      "last_run": "2026-07-15T09:46:47.421004+09:00",
+      "status": "success"
+    }
+  },
+  "db": "connected",
+  "heartbeats": [
+    {
+      "detail": "heartbeat",
+      "id": 18503,
+      "job_name": "",
+      "service_name": "privacy-news-crawler",
+      "status": "alive",
+      "updated_at": "Wed, 15 Jul 2026 00:47:18 GMT"
+    },
+    {
+      "detail": "heartbeat",
+      "id": 18502,
+      "job_name": "",
+      "service_name": "privacy-news-crawler",
+      "status": "alive",
+      "updated_at": "Wed, 15 Jul 2026 00:46:18 GMT"
+    },
+    {
+      "detail": "heartbeat",
+      "id": 18501,
+      "job_name": "",
+      "service_name": "privacy-news-crawler",
+      "status": "alive",
+      "updated_at": "Wed, 15 Jul 2026 00:45:18 GMT"
+    },
+    {
+      "detail": "heartbeat",
+      "id": 18500,
+      "job_name": "",
+      "service_name": "privacy-news-crawler",
+      "status": "alive",
+      "updated_at": "Wed, 15 Jul 2026 00:44:18 GMT"
+    },
+    {
+      "detail": "heartbeat",
+      "id": 18499,
+      "job_name": "",
+      "service_name": "privacy-news-crawler",
+      "status": "alive",
+      "updated_at": "Wed, 15 Jul 2026 00:43:18 GMT"
+    }
+  ],
+  "selenium": "ready",
+  "timestamp": "2026-07-15T09:48:45.358617"
+}

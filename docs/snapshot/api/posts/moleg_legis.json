@@ -1,0 +1,130 @@
+{
+  "count": 10,
+  "data": [
+    {
+      "collected_at": "2026-07-02T13:14:16.444527+09:00",
+      "created_at": "2026-07-02T13:14:16.444527+09:00",
+      "department": "개인정보보호위원회",
+      "end_date": "2026.08.10",
+      "id": 1,
+      "law_type": "대통령령",
+      "link": "https://www.moleg.go.kr/lawinfo/makingInfo.mo?mid=a10104010000&lawSeq=87372&lawCd=0&lawType=TYPE5&pageCnt=10&currentPage=1&keyField=lmNm&keyWord=&stYdFmt=&edYdFmt=&lsClsCd=&cptOfiOrgCd=%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EC%9C%84%EC%9B%90%ED%9A%8C",
+      "post_date": "2026-06-30",
+      "start_date": "2026.06.30",
+      "title": "개인정보 보호법 시행령 일부개정령안 입법예고"
+    },
+    {
+      "collected_at": "2026-07-02T13:14:16.444527+09:00",
+      "created_at": "2026-07-02T13:14:16.444527+09:00",
+      "department": "개인정보보호위원회",
+      "end_date": "2026.07.13",
+      "id": 2,
+      "law_type": "대통령령",
+      "link": "https://www.moleg.go.kr/lawinfo/makingInfo.mo?mid=a10104010000&lawSeq=86980&lawCd=0&lawType=TYPE5&pageCnt=10&currentPage=1&keyField=lmNm&keyWord=&stYdFmt=&edYdFmt=&lsClsCd=&cptOfiOrgCd=%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EC%9C%84%EC%9B%90%ED%9A%8C",
+      "post_date": "2026-06-02",
+      "start_date": "2026.06.02",
+      "title": "개인정보 보호법 시행령 일부개정령안 입법예고"
+    },
+    {
+      "collected_at": "2026-07-02T13:14:16.444527+09:00",
+      "created_at": "2026-07-02T13:14:16.444527+09:00",
+      "department": "개인정보보호위원회",
+      "end_date": "2026.07.13",
+      "id": 3,
+      "law_type": "대통령령",
+      "link": "https://www.moleg.go.kr/lawinfo/makingInfo.mo?mid=a10104010000&lawSeq=86932&lawCd=0&lawType=TYPE5&pageCnt=10&currentPage=1&keyField=lmNm&keyWord=&stYdFmt=&edYdFmt=&lsClsCd=&cptOfiOrgCd=%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EC%9C%84%EC%9B%90%ED%9A%8C",
+      "post_date": "2026-06-01",
+      "start_date": "2026.06.01",
+      "title": "개인정보 보호법 시행령 일부개정령안 입법예고"
+    },
+    {
+      "collected_at": "2026-07-02T13:14:16.444527+09:00",
+      "created_at": "2026-07-02T13:14:16.444527+09:00",
+      "department": "개인정보보호위원회",
+      "end_date": "2026.05.20",
+      "id": 4,
+      "law_type": "총리령",
+      "link": "https://www.moleg.go.kr/lawinfo/makingInfo.mo?mid=a10104010000&lawSeq=86700&lawCd=0&lawType=TYPE5&pageCnt=10&currentPage=1&keyField=lmNm&keyWord=&stYdFmt=&edYdFmt=&lsClsCd=&cptOfiOrgCd=%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EC%9C%84%EC%9B%90%ED%9A%8C",
+      "post_date": "2026-05-13",
+      "start_date": "2026.05.13",
+      "title": "개인정보보호위원회 직제 시행규칙 일부개정령안 입법예고"
+    },
+    {
+      "collected_at": "2026-07-02T13:14:16.444527+09:00",
+      "created_at": "2026-07-02T13:14:16.444527+09:00",
+      "department": "개인정보보호위원회",
+      "end_date": "2026.04.27",
+      "id": 5,
+      "law_type": "대통령령",
+      "link": "https://www.moleg.go.kr/lawinfo/makingInfo.mo?mid=a10104010000&lawSeq=85978&lawCd=0&lawType=TYPE5&pageCnt=10&currentPage=1&keyField=lmNm&keyWord=&stYdFmt=&edYdFmt=&lsClsCd=&cptOfiOrgCd=%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EC%9C%84%EC%9B%90%ED%9A%8C",
+      "post_date": "2026-03-16",
+      "start_date": "2026.03.16",
+      "title": "개인정보 보호법 시행령 일부개정령안 입법예고"
+    },
+    {
+      "collected_at": "2026-07-02T13:14:16.444527+09:00",
+      "created_at": "2026-07-02T13:14:16.444527+09:00",
+      "department": "개인정보보호위원회",
+      "end_date": "2026.03.18",
+      "id": 6,
+      "law_type": "총리령",
+      "link": "https://www.moleg.go.kr/lawinfo/makingInfo.mo?mid=a10104010000&lawSeq=85936&lawCd=0&lawType=TYPE5&pageCnt=10&currentPage=1&keyField=lmNm&keyWord=&stYdFmt=&edYdFmt=&lsClsCd=&cptOfiOrgCd=%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EC%9C%84%EC%9B%90%ED%9A%8C",
+      "post_date": "2026-03-11",
+      "start_date": "2026.03.11",
+      "title": "개인정보보호위원회 직제 시행규칙 일부개정령안 입법예고"
+    },
+    {
+      "collected_at": "2026-07-02T13:14:16.444527+09:00",
+      "created_at": "2026-07-02T13:14:16.444527+09:00",
+      "department": "개인정보보호위원회",
+      "end_date": "2025.12.19",
+      "id": 7,
+      "law_type": "총리령",
+      "link": "https://www.moleg.go.kr/lawinfo/makingInfo.mo?mid=a10104010000&lawSeq=84820&lawCd=0&lawType=TYPE5&pageCnt=10&currentPage=1&keyField=lmNm&keyWord=&stYdFmt=&edYdFmt=&lsClsCd=&cptOfiOrgCd=%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EC%9C%84%EC%9B%90%ED%9A%8C",
+      "post_date": "2025-12-16",
+      "start_date": "2025.12.16",
+      "title": "개인정보 보호위원회 직제 시행규칙 일부개정령안 입법예고"
+    },
+    {
+      "collected_at": "2026-07-02T13:14:16.444527+09:00",
+      "created_at": "2026-07-02T13:14:16.444527+09:00",
+      "department": "개인정보보호위원회",
+      "end_date": "2025.08.04",
+      "id": 8,
+      "law_type": "대통령령",
+      "link": "https://www.moleg.go.kr/lawinfo/makingInfo.mo?mid=a10104010000&lawSeq=83132&lawCd=2000000318612&lawType=TYPE5&pageCnt=10&currentPage=1&keyField=lmNm&keyWord=&stYdFmt=&edYdFmt=&lsClsCd=&cptOfiOrgCd=%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EC%9C%84%EC%9B%90%ED%9A%8C",
+      "post_date": "2025-06-23",
+      "start_date": "2025.06.23",
+      "title": "개인정보 보호법 시행령 일부개정령안 입법예고"
+    },
+    {
+      "collected_at": "2026-07-02T13:14:16.444527+09:00",
+      "created_at": "2026-07-02T13:14:16.444527+09:00",
+      "department": "개인정보보호위원회",
+      "end_date": "2025.07.09",
+      "id": 9,
+      "law_type": "대통령령",
+      "link": "https://www.moleg.go.kr/lawinfo/makingInfo.mo?mid=a10104010000&lawSeq=82960&lawCd=0&lawType=TYPE5&pageCnt=10&currentPage=1&keyField=lmNm&keyWord=&stYdFmt=&edYdFmt=&lsClsCd=&cptOfiOrgCd=%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EC%9C%84%EC%9B%90%ED%9A%8C",
+      "post_date": "2025-05-30",
+      "start_date": "2025.05.30",
+      "title": "개인정보 보호법 시행령 일부개정령안 입법예고"
+    },
+    {
+      "collected_at": "2026-07-02T13:14:16.444527+09:00",
+      "created_at": "2026-07-02T13:14:16.444527+09:00",
+      "department": "개인정보보호위원회",
+      "end_date": "2025.02.14",
+      "id": 10,
+      "law_type": "총리령",
+      "link": "https://www.moleg.go.kr/lawinfo/makingInfo.mo?mid=a10104010000&lawSeq=81708&lawCd=2000000315220&lawType=TYPE5&pageCnt=10&currentPage=1&keyField=lmNm&keyWord=&stYdFmt=&edYdFmt=&lsClsCd=&cptOfiOrgCd=%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EC%9C%84%EC%9B%90%ED%9A%8C",
+      "post_date": "2025-02-07",
+      "start_date": "2025.02.07",
+      "title": "개인정보 보호위원회 직제 시행규칙 일부개정령안 입법예고"
+    }
+  ],
+  "display_name": "법제처(입법예고)",
+  "limit": 1000,
+  "offset": 0,
+  "site": "moleg_legis",
+  "total_count": 10
+}
