@@ -1,6 +1,19 @@
 {
-  "count": 37,
+  "count": 38,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-07-16T11:00:27.819143+09:00",
+      "created_at": "2026-07-16T11:00:27.819143+09:00",
+      "department": "혁신기획담당관",
+      "hits": "33",
+      "id": 11221,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12281",
+      "post_date": "2026-07-16",
+      "post_number": "1281",
+      "title": "AI 혁신을 뒷받침하고 국민 권익을 증진하는 예방중심 개인정보 보호 실현"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -487,5 +500,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 37
+  "total_count": 38
 }
