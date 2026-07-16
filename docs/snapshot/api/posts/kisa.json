@@ -1,6 +1,19 @@
 {
-  "count": 37,
+  "count": 38,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-07-16T12:01:52.363213+09:00",
+      "created_at": "2026-07-16T12:01:52.363213+09:00",
+      "hits": "30",
+      "id": 11331,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/402/form?postSeq=2614&page=1",
+      "post_date": "2026-07-16",
+      "post_number": "New",
+      "title": "건설 현장 특화 폐쇄회로 텔레비전(CCTV)으로 안전 지킨다"
+    },
     {
       "attachment": "No",
       "board_type": "공지사항",
@@ -487,5 +500,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 37
+  "total_count": 38
 }
