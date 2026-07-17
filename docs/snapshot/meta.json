@@ -1,7 +1,7 @@
 {
   "project": "privacy-news",
   "site_title": "Privacy News Dashboard",
-  "generated_at_kst": "2026-07-17T22:20:00+09:00",
+  "generated_at_kst": "2026-07-17T23:20:00+09:00",
   "source_dashboard": "http://dashboard:3000",
   "snapshot_mode": true,
   "notice": "Static sanitized snapshot. Runtime secrets and write APIs are not published.",
