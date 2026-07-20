@@ -1,6 +1,19 @@
 {
-  "count": 42,
+  "count": 43,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-07-20T12:01:44.402603+09:00",
+      "created_at": "2026-07-20T12:01:44.402603+09:00",
+      "hits": "32",
+      "id": 14611,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/402/form?postSeq=2616&page=1",
+      "post_date": "2026-07-20",
+      "post_number": "New",
+      "title": "아태지역 15개국 청년, 인터넷거버넌스 미래 함께 그린다"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -552,5 +565,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 42
+  "total_count": 43
 }
