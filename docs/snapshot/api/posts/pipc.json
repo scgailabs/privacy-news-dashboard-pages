@@ -1,6 +1,58 @@
 {
-  "count": 40,
+  "count": 44,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-07-20T10:16:06.541093+09:00",
+      "created_at": "2026-07-20T10:16:06.541093+09:00",
+      "department": "전략기획팀",
+      "hits": "14",
+      "id": 14451,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12289",
+      "post_date": "2026-07-20",
+      "post_number": "369",
+      "title": "본인전송요구 대리인의 사전협의 요청 시범기간 추가운영(7.20.~31.) 안내"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-07-20T10:01:08.116520+09:00",
+      "created_at": "2026-07-20T10:01:08.116520+09:00",
+      "department": "데이터안전정책과",
+      "hits": "7",
+      "id": 14433,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12278",
+      "post_date": "2026-07-20",
+      "post_number": "366",
+      "title": "2026년도 개인정보 이노베이션 존 운영기관 지정 공모"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-07-20T10:00:27.102836+09:00",
+      "created_at": "2026-07-20T10:00:27.102836+09:00",
+      "department": "데이터안전정책과",
+      "hits": "2",
+      "id": 14422,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12287",
+      "post_date": "2026-07-20",
+      "post_number": "1282",
+      "title": "「개인정보 이노베이션 존」 신규 운영기관 공모"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-07-20T10:00:27.102836+09:00",
+      "created_at": "2026-07-20T10:00:27.102836+09:00",
+      "department": "전략기획팀",
+      "hits": "1",
+      "id": 14421,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12288",
+      "post_date": "2026-07-20",
+      "post_number": "1283",
+      "title": "개인정보위, ‘본인전송요구권’ 사전협의 지원 시범운영 7월 31일까지 추가신청 받는다"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -526,5 +578,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 40
+  "total_count": 44
 }

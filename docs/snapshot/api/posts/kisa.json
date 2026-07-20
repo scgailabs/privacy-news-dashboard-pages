@@ -1,6 +1,45 @@
 {
-  "count": 38,
+  "count": 42,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-07-20T09:46:51.916450+09:00",
+      "created_at": "2026-07-20T09:46:51.916450+09:00",
+      "hits": "53",
+      "id": 14431,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/402/form?postSeq=2615&page=1",
+      "post_date": "2026-07-20",
+      "post_number": "New",
+      "title": "한국인터넷진흥원 인사"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-07-20T09:46:42.059527+09:00",
+      "created_at": "2026-07-20T09:46:42.059527+09:00",
+      "hits": "11",
+      "id": 14421,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3721&page=1",
+      "post_date": "2026-07-20",
+      "post_number": "공지",
+      "title": "[2차모집]2026년 정보보호제품 성능평가 지원 공모 사업(~8/14)"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-07-20T10:01:38.608709+09:00",
+      "created_at": "2026-07-20T10:01:38.608709+09:00",
+      "hits": "10",
+      "id": 14444,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3720&page=1",
+      "post_date": "2026-07-16",
+      "post_number": "1493",
+      "title": "2026년도 개인정보 이노베이션 존 운영기관 지정 공모"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -471,6 +510,19 @@
     },
     {
       "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-07-20T09:31:42.552965+09:00",
+      "created_at": "2026-07-20T09:31:42.552965+09:00",
+      "hits": "6587",
+      "id": 14403,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3682&page=1",
+      "post_date": "2026-06-08",
+      "post_number": "공지",
+      "title": "2026년 정보보호제품 성능평가 지원 공모 사업(~8/14)"
+    },
+    {
+      "attachment": "Yes",
       "board_type": "보도자료",
       "collected_at": "2026-07-02T13:15:50.203272+09:00",
       "created_at": "2026-07-02T13:15:50.203272+09:00",
@@ -500,5 +552,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 38
+  "total_count": 42
 }
