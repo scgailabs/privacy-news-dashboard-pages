@@ -1,6 +1,19 @@
 {
-  "count": 45,
+  "count": 46,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-07-22T17:32:01.526863+09:00",
+      "created_at": "2026-07-22T17:32:01.526863+09:00",
+      "hits": "278",
+      "id": 16691,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/402/form?postSeq=2618&page=1",
+      "post_date": "2026-07-22",
+      "post_number": "New",
+      "title": "'블록체인 기반 예금토큰 결제 인프라 확산' 사업 발대식 개최"
+    },
     {
       "attachment": "No",
       "board_type": "공지사항",
@@ -591,5 +604,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 45
+  "total_count": 46
 }
