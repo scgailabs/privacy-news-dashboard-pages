@@ -1,6 +1,19 @@
 {
-  "count": 51,
+  "count": 52,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-07-23T16:00:30.422263+09:00",
+      "created_at": "2026-07-23T16:00:30.422263+09:00",
+      "department": "혁신기획담당관",
+      "hits": "4",
+      "id": 17362,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12329",
+      "post_date": "2026-07-23",
+      "post_number": "1286",
+      "title": "「2026 개인정보 미래포럼」 제3차 전체회의 개최"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -669,5 +682,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 51
+  "total_count": 52
 }
