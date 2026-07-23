@@ -1,6 +1,45 @@
 {
-  "count": 46,
+  "count": 49,
   "data": [
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-07-23T08:31:55.372982+09:00",
+      "created_at": "2026-07-23T08:31:55.372982+09:00",
+      "hits": "236",
+      "id": 16785,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3724&page=1",
+      "post_date": "2026-07-22",
+      "post_number": "1496",
+      "title": "「2026 블록체인 밋업데이(BCMD)」 17회차 교육생 모집(~8.7)"
+    },
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-07-23T08:31:55.372982+09:00",
+      "created_at": "2026-07-23T08:31:55.372982+09:00",
+      "hits": "260",
+      "id": 16784,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3725&page=1",
+      "post_date": "2026-07-22",
+      "post_number": "1497",
+      "title": "「2026 블록체인 밋업데이(BCMD)」 18회차 교육생 모집(~8.21)"
+    },
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-07-23T08:31:55.372982+09:00",
+      "created_at": "2026-07-23T08:31:55.372982+09:00",
+      "hits": "242",
+      "id": 16781,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3723&page=1",
+      "post_date": "2026-07-22",
+      "post_number": "공지",
+      "title": "「2026 블록체인 밋업데이(BCMD)」 16회차 교육생 모집(~7.31)"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -604,5 +643,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 46
+  "total_count": 49
 }

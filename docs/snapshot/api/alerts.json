@@ -1,5 +1,27 @@
 [
   {
+    "alert_type": "gmail",
+    "channel_type": "email",
+    "created_at": "2026-07-23T08:55:01.124776+09:00",
+    "error_detail": "",
+    "event_type": "new_posts",
+    "id": 79,
+    "job_name": "daily_digest",
+    "message": "일일 다이제스트 10건 (2026-07-22~2026-07-22) | trigger_source=scheduled",
+    "status": "sent"
+  },
+  {
+    "alert_type": "discord",
+    "channel_type": "news",
+    "created_at": "2026-07-23T08:32:10.807080+09:00",
+    "error_detail": "",
+    "event_type": "new_posts",
+    "id": 78,
+    "job_name": "kisa_notice",
+    "message": "KISA(공지사항) 신규 3건",
+    "status": "sent"
+  },
+  {
     "alert_type": "discord",
     "channel_type": "news",
     "created_at": "2026-07-22T17:32:06.933311+09:00",
@@ -525,28 +547,6 @@
     "id": 30,
     "job_name": "daily_digest",
     "message": "일일 다이제스트 1건 (2026-07-08~2026-07-08) | trigger_source=scheduled",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "news",
-    "created_at": "2026-07-08T12:01:49.180440+09:00",
-    "error_detail": "",
-    "event_type": "new_posts",
-    "id": 29,
-    "job_name": "kisa_notice",
-    "message": "KISA(공지사항) 신규 2건",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "news",
-    "created_at": "2026-07-08T10:01:47.456105+09:00",
-    "error_detail": "",
-    "event_type": "new_posts",
-    "id": 28,
-    "job_name": "pipc_news",
-    "message": "개인정보보호위원회(보도자료) 신규 1건",
     "status": "sent"
   }
 ]
