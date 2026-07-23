@@ -1,6 +1,45 @@
 {
-  "count": 48,
+  "count": 51,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-07-23T10:00:38.625145+09:00",
+      "created_at": "2026-07-23T10:00:38.625145+09:00",
+      "department": "인공지능프라이버시팀",
+      "hits": "5",
+      "id": 16883,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12307",
+      "post_date": "2026-07-23",
+      "post_number": "1285",
+      "title": "국민이 신뢰할 수 있는 공공 인공지능 전환(AX),프라이버시 보호로 적극 뒷받침"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-07-23T10:00:38.625145+09:00",
+      "created_at": "2026-07-23T10:00:38.625145+09:00",
+      "department": "인공지능프라이버시팀",
+      "hits": "3",
+      "id": 16882,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12308",
+      "post_date": "2026-07-23",
+      "post_number": "1286",
+      "title": "대도약의 골든타임, 초격차 성장동력 확보와 AI 생태계 발전기반 강화"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-07-23T10:00:38.625145+09:00",
+      "created_at": "2026-07-23T10:00:38.625145+09:00",
+      "department": "조사1과",
+      "hits": "6",
+      "id": 16881,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12330",
+      "post_date": "2026-07-23",
+      "post_number": "1287",
+      "title": "개인정보위, 적법 근거 없이 개인정보수집·이용한 틱톡·애플 제재"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -630,5 +669,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 48
+  "total_count": 51
 }
