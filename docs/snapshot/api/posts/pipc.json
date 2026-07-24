@@ -1,6 +1,19 @@
 {
-  "count": 52,
+  "count": 53,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-07-24T10:00:27.219427+09:00",
+      "created_at": "2026-07-24T10:00:27.219427+09:00",
+      "department": "국제협력담당관",
+      "hits": "5",
+      "id": 17701,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12333",
+      "post_date": "2026-07-24",
+      "post_number": "1288",
+      "title": "유럽연합, 한국 개인정보 보호 수준 재확인… 적정성 결정 유지"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -682,5 +695,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 52
+  "total_count": 53
 }
