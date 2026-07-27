@@ -1,6 +1,19 @@
 {
-  "count": 49,
+  "count": 50,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-07-27T08:31:55.019743+09:00",
+      "created_at": "2026-07-27T08:31:55.019743+09:00",
+      "hits": "246",
+      "id": 20061,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3726&page=1",
+      "post_date": "2026-07-27",
+      "post_number": "공지",
+      "title": "2026년 정보보호제품 성능평가자 양성교육 신청·접수 안내(1차, BreakingPoint)"
+    },
     {
       "attachment": "No",
       "board_type": "공지사항",
@@ -643,5 +656,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 49
+  "total_count": 50
 }
