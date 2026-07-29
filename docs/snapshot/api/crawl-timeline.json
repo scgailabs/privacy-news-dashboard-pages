@@ -5,230 +5,6 @@
       "job_name": "kisa_news",
       "status": "success",
       "target_range_sample": "",
-      "time_slot": "2026-07-22T16:30:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "kisa_notice",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T16:30:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "moleg_legis",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T16:30:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "moleg_news",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T16:30:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "pipc_news",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T16:30:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "pipc_notice",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T16:30:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "privacy",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T16:30:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "kisa_news",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T16:45:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "kisa_notice",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T16:45:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "moleg_legis",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T16:45:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "moleg_news",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T16:45:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "pipc_news",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T16:45:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "pipc_notice",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T16:45:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "privacy",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T16:45:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "kisa_news",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T17:00:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "kisa_notice",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T17:00:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "moleg_legis",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T17:00:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "moleg_news",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T17:00:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "pipc_news",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T17:00:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "pipc_notice",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T17:00:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "privacy",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T17:00:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "kisa_news",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T17:15:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "kisa_notice",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T17:15:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "moleg_legis",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T17:15:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "moleg_news",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T17:15:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "pipc_news",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T17:15:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "pipc_notice",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T17:15:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "privacy",
-      "status": "success",
-      "target_range_sample": "",
-      "time_slot": "2026-07-22T17:15:00",
-      "total_new": 0
-    },
-    {
-      "cnt": 1,
-      "job_name": "kisa_news",
-      "status": "success",
-      "target_range_sample": "",
       "time_slot": "2026-07-22T17:30:00",
       "total_new": 1
     },
@@ -16070,6 +15846,230 @@
       "status": "success",
       "target_range_sample": "",
       "time_slot": "2026-07-29T16:15:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "kisa_news",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T16:30:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "kisa_notice",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T16:30:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "moleg_legis",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T16:30:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "moleg_news",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T16:30:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "pipc_news",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T16:30:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "pipc_notice",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T16:30:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "privacy",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T16:30:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "kisa_news",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T16:45:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "kisa_notice",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T16:45:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "moleg_legis",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T16:45:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "moleg_news",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T16:45:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "pipc_news",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T16:45:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "pipc_notice",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T16:45:00",
+      "total_new": 1
+    },
+    {
+      "cnt": 1,
+      "job_name": "privacy",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T16:45:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "kisa_news",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T17:00:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "kisa_notice",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T17:00:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "moleg_legis",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T17:00:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "moleg_news",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T17:00:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "pipc_news",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T17:00:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "pipc_notice",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T17:00:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "privacy",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T17:00:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "kisa_news",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T17:15:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "kisa_notice",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T17:15:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "moleg_legis",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T17:15:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "moleg_news",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T17:15:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "pipc_news",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T17:15:00",
+      "total_new": 0
+    },
+    {
+      "cnt": 1,
+      "job_name": "pipc_notice",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T17:15:00",
+      "total_new": 1
+    },
+    {
+      "cnt": 1,
+      "job_name": "privacy",
+      "status": "success",
+      "target_range_sample": "",
+      "time_slot": "2026-07-29T17:15:00",
       "total_new": 0
     }
   ],
@@ -16079,7 +16079,7 @@
     "moleg_legis": 10,
     "moleg_news": 13,
     "pipc_news": 31,
-    "pipc_notice": 22,
+    "pipc_notice": 24,
     "privacy": 27
   }
 }
