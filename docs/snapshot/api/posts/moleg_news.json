@@ -1,6 +1,16 @@
 {
-  "count": 15,
+  "count": 16,
   "data": [
+    {
+      "attachment": "Yes",
+      "collected_at": "2026-07-31T11:00:19.812863+09:00",
+      "created_at": "2026-07-31T11:00:19.812863+09:00",
+      "department": "법제교육과",
+      "id": 11761,
+      "link": "https://www.moleg.go.kr/board.es?mid=a10501000000&bid=0048&act=view&list_no=154410&tag=&pageCntBySelf=10&nPage=1&keyField=&keyWord=&cg_code=",
+      "post_date": "2026-07-31",
+      "title": "‘이론에서 실무로’ 제34기 법제처 실무수습 성황리에 마쳐"
+    },
     {
       "attachment": "Yes",
       "collected_at": "2026-07-31T09:45:20.988339+09:00",
@@ -156,5 +166,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "moleg_news",
-  "total_count": 15
+  "total_count": 16
 }
