@@ -1,6 +1,26 @@
 {
-  "count": 16,
+  "count": 18,
   "data": [
+    {
+      "attachment": "Yes",
+      "collected_at": "2026-08-03T10:00:19.612801+09:00",
+      "created_at": "2026-08-03T10:00:19.612801+09:00",
+      "department": "대변인실",
+      "id": 12952,
+      "link": "https://www.moleg.go.kr/board.es?mid=a10501000000&bid=0048&act=view&list_no=154664&tag=&pageCntBySelf=10&nPage=1&keyField=&keyWord=&cg_code=",
+      "post_date": "2026-08-03",
+      "title": "아동학대는 심층 분석, 저작권 침해는 강력 대응... 권익 보호와 산업 경쟁력 동시 강화"
+    },
+    {
+      "attachment": "Yes",
+      "collected_at": "2026-08-03T10:00:19.612801+09:00",
+      "created_at": "2026-08-03T10:00:19.612801+09:00",
+      "department": "대변인실",
+      "id": 12951,
+      "link": "https://www.moleg.go.kr/board.es?mid=a10501000000&bid=0048&act=view&list_no=154665&tag=&pageCntBySelf=10&nPage=1&keyField=&keyWord=&cg_code=",
+      "post_date": "2026-08-03",
+      "title": "In-Depth Analysis of Child Abuse and Stronger Action against Copyright Infringement..."
+    },
     {
       "attachment": "Yes",
       "collected_at": "2026-07-31T11:00:19.812863+09:00",
@@ -166,5 +186,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "moleg_news",
-  "total_count": 16
+  "total_count": 18
 }
