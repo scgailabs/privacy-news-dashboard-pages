@@ -1,6 +1,58 @@
 {
-  "count": 55,
+  "count": 59,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-08-03T09:16:35.817723+09:00",
+      "created_at": "2026-08-03T09:16:35.817723+09:00",
+      "hits": "27",
+      "id": 25864,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3730&page=1",
+      "post_date": "2026-08-03",
+      "post_number": "공지",
+      "title": "2026년 전남광주통합특별시 소상공인·사회적경제기업 판로 확대 지원기업 선발 안내(~8.14)"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-08-03T09:16:35.817723+09:00",
+      "created_at": "2026-08-03T09:16:35.817723+09:00",
+      "hits": "29",
+      "id": 25863,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3731&page=1",
+      "post_date": "2026-08-03",
+      "post_number": "공지",
+      "title": "2026년 전남광주통합특별시 지역문제 해결 프로젝트 공모전 개최 안내(~8.21)"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-08-03T09:16:35.817723+09:00",
+      "created_at": "2026-08-03T09:16:35.817723+09:00",
+      "hits": "20",
+      "id": 25862,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3732&page=1",
+      "post_date": "2026-08-03",
+      "post_number": "공지",
+      "title": "2026년 한국인터넷진흥원 지역공부방 참여 대학생 장학금 지원자 모집 안내(~8.28)"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-08-03T09:16:35.817723+09:00",
+      "created_at": "2026-08-03T09:16:35.817723+09:00",
+      "hits": "29",
+      "id": 25861,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3733&page=1",
+      "post_date": "2026-08-03",
+      "post_number": "공지",
+      "title": "2026년 암호모듈 시험자 양성교육 및 필기시험 안내(8.3~8.21)"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -721,5 +773,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 55
+  "total_count": 59
 }
