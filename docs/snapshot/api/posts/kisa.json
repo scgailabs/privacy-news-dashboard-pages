@@ -1,6 +1,19 @@
 {
-  "count": 64,
+  "count": 65,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-08-05T09:16:33.823896+09:00",
+      "created_at": "2026-08-05T09:16:33.823896+09:00",
+      "hits": "263",
+      "id": 27511,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/402/form?postSeq=2623&page=1",
+      "post_date": "2026-08-04",
+      "post_number": "975",
+      "title": "한국인터넷진흥원, 기관장 주도 국민 체감 성과 혁신 체계 가동"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -838,5 +851,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 64
+  "total_count": 65
 }
