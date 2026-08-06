@@ -1,6 +1,19 @@
 {
-  "count": 57,
+  "count": 58,
   "data": [
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-08-06T15:46:06.392884+09:00",
+      "created_at": "2026-08-06T15:46:06.392884+09:00",
+      "department": "운영지원과",
+      "hits": "2",
+      "id": 28831,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12362",
+      "post_date": "2026-08-06",
+      "post_number": "375",
+      "title": "2026년 민원서비스 종합평가 고충민원 만족도·신뢰도 측정을 위한 개인정보 제3자 제공사항 알림"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -747,5 +760,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 57
+  "total_count": 58
 }
