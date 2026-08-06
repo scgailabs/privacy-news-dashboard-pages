@@ -1,6 +1,19 @@
 {
-  "count": 56,
+  "count": 57,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-08-06T10:00:26.758706+09:00",
+      "created_at": "2026-08-06T10:00:26.758706+09:00",
+      "department": "개인정보보호정책과",
+      "hits": "7",
+      "id": 28361,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12361",
+      "post_date": "2026-08-06",
+      "post_number": "1290",
+      "title": "인공지능(AI) 시대 개인정보 제도 혁신, 국민과 함께 설계한다"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -734,5 +747,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 56
+  "total_count": 57
 }
