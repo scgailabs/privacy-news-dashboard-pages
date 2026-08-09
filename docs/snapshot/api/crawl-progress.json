@@ -1,79 +1,79 @@
 [
   {
-    "completed_at": "2026-08-09T14:16:42.364946+09:00",
+    "completed_at": "2026-08-09T15:16:41.980318+09:00",
     "current_step": 1,
     "id": 7,
     "job_name": "kisa_news",
     "message": "10건 수집, 0건 신규",
-    "started_at": "2026-08-09T14:16:33.480591+09:00",
+    "started_at": "2026-08-09T15:16:33.437568+09:00",
     "status": "completed",
     "total_steps": 1,
-    "updated_at": "2026-08-09T14:16:42.364946+09:00"
+    "updated_at": "2026-08-09T15:16:41.980318+09:00"
   },
   {
-    "completed_at": "2026-08-09T14:16:31.458010+09:00",
+    "completed_at": "2026-08-09T15:16:31.424486+09:00",
     "current_step": 1,
     "id": 6,
     "job_name": "kisa_notice",
     "message": "10건 수집, 0건 신규",
-    "started_at": "2026-08-09T14:16:11.136925+09:00",
+    "started_at": "2026-08-09T15:16:10.847643+09:00",
     "status": "completed",
     "total_steps": 1,
-    "updated_at": "2026-08-09T14:16:31.458010+09:00"
+    "updated_at": "2026-08-09T15:16:31.424486+09:00"
   },
   {
-    "completed_at": "2026-08-09T14:15:12.108097+09:00",
+    "completed_at": "2026-08-09T15:15:11.324170+09:00",
     "current_step": 1,
     "id": 2,
     "job_name": "moleg_legis",
     "message": "10건 수집, 0건 신규",
-    "started_at": "2026-08-09T14:15:00.442769+09:00",
+    "started_at": "2026-08-09T15:15:00.411580+09:00",
     "status": "completed",
     "total_steps": 1,
-    "updated_at": "2026-08-09T14:15:12.108097+09:00"
+    "updated_at": "2026-08-09T15:15:11.324170+09:00"
   },
   {
-    "completed_at": "2026-08-09T14:15:21.584169+09:00",
+    "completed_at": "2026-08-09T15:15:21.275644+09:00",
     "current_step": 1,
     "id": 1,
     "job_name": "moleg_news",
     "message": "10건 수집, 0건 신규",
-    "started_at": "2026-08-09T14:15:14.130601+09:00",
+    "started_at": "2026-08-09T15:15:13.346657+09:00",
     "status": "completed",
     "total_steps": 1,
-    "updated_at": "2026-08-09T14:15:21.584169+09:00"
+    "updated_at": "2026-08-09T15:15:21.275644+09:00"
   },
   {
-    "completed_at": "2026-08-09T14:15:28.481562+09:00",
+    "completed_at": "2026-08-09T15:15:28.924809+09:00",
     "current_step": 1,
     "id": 3,
     "job_name": "pipc_news",
     "message": "10건 수집, 0건 신규",
-    "started_at": "2026-08-09T14:15:23.603928+09:00",
+    "started_at": "2026-08-09T15:15:23.297789+09:00",
     "status": "completed",
     "total_steps": 1,
-    "updated_at": "2026-08-09T14:15:28.481562+09:00"
+    "updated_at": "2026-08-09T15:15:28.924809+09:00"
   },
   {
-    "completed_at": "2026-08-09T14:16:08.609264+09:00",
+    "completed_at": "2026-08-09T15:16:08.288999+09:00",
     "current_step": 1,
     "id": 4,
     "job_name": "pipc_notice",
     "message": "10건 수집, 0건 신규",
-    "started_at": "2026-08-09T14:15:30.503611+09:00",
+    "started_at": "2026-08-09T15:15:30.947605+09:00",
     "status": "completed",
     "total_steps": 1,
-    "updated_at": "2026-08-09T14:16:08.609264+09:00"
+    "updated_at": "2026-08-09T15:16:08.288999+09:00"
   },
   {
-    "completed_at": "2026-08-09T14:16:45.204610+09:00",
+    "completed_at": "2026-08-09T15:16:44.744348+09:00",
     "current_step": 1,
     "id": 5,
     "job_name": "privacy",
     "message": "신규 데이터 없음",
-    "started_at": "2026-08-09T14:16:44.849287+09:00",
+    "started_at": "2026-08-09T15:16:44.449376+09:00",
     "status": "completed",
     "total_steps": 1,
-    "updated_at": "2026-08-09T14:16:45.204610+09:00"
+    "updated_at": "2026-08-09T15:16:44.744348+09:00"
   }
 ]
