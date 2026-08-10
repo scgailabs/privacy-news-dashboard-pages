@@ -1,6 +1,16 @@
 {
-  "count": 27,
+  "count": 28,
   "data": [
+    {
+      "author": "관리자",
+      "bbsno": 20909,
+      "collected_at": "2026-08-10T18:01:43.365104+09:00",
+      "created_at": "2026-08-10T18:01:43.365104+09:00",
+      "id": 28,
+      "link": "https://www.privacy.go.kr/front/bbs/bbsView.do?bbsNo=BBSMSTR_000000000001&bbscttNo=20909",
+      "post_date": "2026-08-10",
+      "title": "개인정보 포털 예방점검에 따른 서비스 중단 안내 (8.13 19:00 ~ 23:00)"
+    },
     {
       "author": "관리자",
       "bbsno": 20908,
@@ -276,5 +286,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "privacy",
-  "total_count": 27
+  "total_count": 28
 }
