@@ -1,5 +1,16 @@
 [
   {
+    "alert_type": "gmail",
+    "channel_type": "email",
+    "created_at": "2026-08-10T08:55:01.143493+09:00",
+    "error_detail": "",
+    "event_type": "new_posts",
+    "id": 122,
+    "job_name": "daily_digest",
+    "message": "일일 다이제스트 2건 (2026-08-07~2026-08-09) | trigger_source=scheduled",
+    "status": "sent"
+  },
+  {
     "alert_type": "discord",
     "channel_type": "news",
     "created_at": "2026-08-07T17:01:45.713854+09:00",
@@ -537,16 +548,5 @@
     "job_name": "daily_digest",
     "message": "신규 게시글 없음 (2026-07-21~2026-07-21) | trigger_source=scheduled",
     "status": "skipped_no_data"
-  },
-  {
-    "alert_type": "gmail",
-    "channel_type": "email",
-    "created_at": "2026-07-21T08:55:01.399939+09:00",
-    "error_detail": "",
-    "event_type": "new_posts",
-    "id": 72,
-    "job_name": "daily_digest",
-    "message": "일일 다이제스트 7건 (2026-07-20~2026-07-20) | trigger_source=scheduled",
-    "status": "sent"
   }
 ]
