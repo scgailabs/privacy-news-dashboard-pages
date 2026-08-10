@@ -1,6 +1,19 @@
 {
-  "count": 69,
+  "count": 70,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-08-10T11:01:30.246604+09:00",
+      "created_at": "2026-08-10T11:01:30.246604+09:00",
+      "hits": "13",
+      "id": 31741,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3739&page=1",
+      "post_date": "2026-08-10",
+      "post_number": "공지",
+      "title": "2026년 블록체인 수요-공급 협의체 (ABLE) 정례세미나 개최 안내(8.13.목)"
+    },
     {
       "attachment": "No",
       "board_type": "공지사항",
@@ -903,5 +916,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 69
+  "total_count": 70
 }
