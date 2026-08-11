@@ -1,6 +1,32 @@
 {
-  "count": 58,
+  "count": 60,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-08-11T11:16:08.723253+09:00",
+      "created_at": "2026-08-11T11:16:08.723253+09:00",
+      "department": "범정부 마이데이터추진단",
+      "hits": "18",
+      "id": 32571,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12368",
+      "post_date": "2026-08-11",
+      "post_number": "376",
+      "title": "본인전송요구 대리인의 사전협의 요청 시범기간 추가운영(8.11.~31.) 안내"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-08-11T11:00:26.976860+09:00",
+      "created_at": "2026-08-11T11:00:26.976860+09:00",
+      "department": "범정부마이데이터추진단 전략기획팀",
+      "hits": "8",
+      "id": 32541,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12367",
+      "post_date": "2026-08-11",
+      "post_number": "1291",
+      "title": "개인정보위, 본인전송요구 대리인의 사전협의 시범운영(3차) 추가신청 받는다"
+    },
     {
       "attachment": "No",
       "board_type": "공지사항",
@@ -760,5 +786,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 58
+  "total_count": 60
 }
