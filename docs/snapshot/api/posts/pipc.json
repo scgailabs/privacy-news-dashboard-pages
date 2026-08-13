@@ -1,6 +1,19 @@
 {
-  "count": 62,
+  "count": 63,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-08-13T17:31:09.311303+09:00",
+      "created_at": "2026-08-13T17:31:09.311303+09:00",
+      "department": "국제협력담당관",
+      "hits": "7",
+      "id": 34711,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12376",
+      "post_date": "2026-08-13",
+      "post_number": "379",
+      "title": "「국경 간 개인정보 보호 규칙 인증제도의 운영에 관한 지침」 일부개정안 행정예고"
+    },
     {
       "attachment": "No",
       "board_type": "공지사항",
@@ -812,5 +825,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 62
+  "total_count": 63
 }
