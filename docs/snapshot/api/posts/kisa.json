@@ -1,6 +1,19 @@
 {
-  "count": 73,
+  "count": 74,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-08-13T09:31:24.927741+09:00",
+      "created_at": "2026-08-13T09:31:24.927741+09:00",
+      "hits": "15",
+      "id": 34081,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3742&page=1",
+      "post_date": "2026-08-13",
+      "post_number": "공지",
+      "title": "2026년 하반기 정보보호 전문서비스 기업 지정에 관한 공고"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -955,5 +968,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 73
+  "total_count": 74
 }

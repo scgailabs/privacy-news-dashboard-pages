@@ -1,6 +1,19 @@
 {
-  "count": 60,
+  "count": 61,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-08-13T09:31:08.209725+09:00",
+      "created_at": "2026-08-13T09:31:08.209725+09:00",
+      "department": "혁신기획담당관",
+      "hits": "2",
+      "id": 34071,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12370",
+      "post_date": "2026-08-13",
+      "post_number": "377",
+      "title": "「개인정보 보호위원회 직제 시행규칙」 일부개정령안 입법예고"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -786,5 +799,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 60
+  "total_count": 61
 }
