@@ -1,6 +1,19 @@
 {
-  "count": 72,
+  "count": 73,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-08-13T09:16:35.989405+09:00",
+      "created_at": "2026-08-13T09:16:35.989405+09:00",
+      "hits": "6",
+      "id": 34071,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/402/form?postSeq=2626&page=1",
+      "post_date": "2026-08-12",
+      "post_number": "978",
+      "title": "\"예방 넘어 대응·복구까지\" 랜섬웨어 전주기 대응 방안 논의한다"
+    },
     {
       "attachment": "No",
       "board_type": "공지사항",
@@ -942,5 +955,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 72
+  "total_count": 73
 }
