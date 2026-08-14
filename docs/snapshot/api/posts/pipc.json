@@ -1,6 +1,19 @@
 {
-  "count": 63,
+  "count": 64,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-08-14T18:16:08.177242+09:00",
+      "created_at": "2026-08-14T18:16:08.177242+09:00",
+      "department": "운영지원과",
+      "hits": "12",
+      "id": 35591,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12379",
+      "post_date": "2026-08-14",
+      "post_number": "379",
+      "title": "2026년 개인정보보호 유공 정부포상 후보자 공개검증"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -825,5 +838,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 63
+  "total_count": 64
 }
