@@ -1,5 +1,5 @@
 {
-  "count": 75,
+  "count": 76,
   "data": [
     {
       "attachment": "Yes",
@@ -975,11 +975,24 @@
       "post_date": "2026-06-05",
       "post_number": "949",
       "title": "한국 정보보호 기술, 인니 통신·금융 보안 수요와 만났다"
+    },
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-08-18T17:16:37.364015+09:00",
+      "created_at": "2026-08-18T17:16:37.364015+09:00",
+      "hits": "6525",
+      "id": 38805,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3677&page=1",
+      "post_date": "2026-06-02",
+      "post_number": "공지",
+      "title": "[공유] 지능형 CCTV 성능시험 재개 안내 공지"
     }
   ],
   "display_name": "KISA",
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 75
+  "total_count": 76
 }
