@@ -1,6 +1,19 @@
 {
-  "count": 64,
+  "count": 65,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-08-19T11:16:06.252027+09:00",
+      "created_at": "2026-08-19T11:16:06.252027+09:00",
+      "department": "범정부 마이데이터추진단",
+      "hits": "12",
+      "id": 39131,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12387",
+      "post_date": "2026-08-19",
+      "post_number": "380",
+      "title": "(대법원) 스크래핑 차단 한시적 유예 신청(~8.31.) 안내"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -838,5 +851,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 64
+  "total_count": 65
 }
