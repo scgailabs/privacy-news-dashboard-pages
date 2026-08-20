@@ -1,6 +1,19 @@
 {
-  "count": 65,
+  "count": 66,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-08-20T16:45:27.227566+09:00",
+      "created_at": "2026-08-20T16:45:27.227566+09:00",
+      "department": "개인정보보호정책과",
+      "hits": "39",
+      "id": 40381,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12391",
+      "post_date": "2026-08-20",
+      "post_number": "1292",
+      "title": "안전한 인공지능 개발을 위한 개인정보 활용 특례 신설 「개인정보 보호법」 개정안 국회 본회의 통과"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -851,5 +864,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 65
+  "total_count": 66
 }
