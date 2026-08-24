@@ -1,6 +1,32 @@
 {
-  "count": 67,
+  "count": 69,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-08-24T14:01:07.394147+09:00",
+      "created_at": "2026-08-24T14:01:07.394147+09:00",
+      "department": "조사총괄과",
+      "hits": "14",
+      "id": 43452,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12398",
+      "post_date": "2026-08-24",
+      "post_number": "381",
+      "title": "「과징금 투자 감경제도 안내서」 초안 공개 및 의견수렴"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-08-24T14:01:07.394147+09:00",
+      "created_at": "2026-08-24T14:01:07.394147+09:00",
+      "department": "조사총괄과",
+      "hits": "6",
+      "id": 43451,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12399",
+      "post_date": "2026-08-24",
+      "post_number": "382",
+      "title": "「개인정보 유출등 대응 매뉴얼」 초안 공개 및 의견수렴"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -877,5 +903,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 67
+  "total_count": 69
 }
