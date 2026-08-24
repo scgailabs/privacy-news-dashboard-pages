@@ -1,6 +1,19 @@
 {
-  "count": 66,
+  "count": 67,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-08-24T10:00:26.766249+09:00",
+      "created_at": "2026-08-24T10:00:26.766249+09:00",
+      "department": "혁신기획담당관",
+      "hits": "6",
+      "id": 43121,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12400",
+      "post_date": "2026-08-24",
+      "post_number": "1294",
+      "title": "개인정보위, 제3회 ‘개인정보 고래상’ 시상"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -864,5 +877,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 66
+  "total_count": 67
 }
