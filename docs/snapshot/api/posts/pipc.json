@@ -1,6 +1,19 @@
 {
-  "count": 70,
+  "count": 71,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-08-25T12:00:28.630385+09:00",
+      "created_at": "2026-08-25T12:00:28.630385+09:00",
+      "department": "자율보호정책과",
+      "hits": "2",
+      "id": 44101,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12411",
+      "post_date": "2026-08-25",
+      "post_number": "1295",
+      "title": "정부, 공공부문 개인정보 보호 역량 강화 위한 인력 확충한다"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -916,5 +929,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 70
+  "total_count": 71
 }
