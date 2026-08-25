@@ -1,6 +1,19 @@
 {
-  "count": 81,
+  "count": 82,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-08-25T16:01:39.626193+09:00",
+      "created_at": "2026-08-25T16:01:39.626193+09:00",
+      "hits": "30",
+      "id": 44448,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3748&page=1",
+      "post_date": "2026-08-25",
+      "post_number": "New",
+      "title": "정보보호특성화대학 대상 사이버전문사관 제3기 후보생 모집·선발 공고"
+    },
     {
       "attachment": "No",
       "board_type": "공지사항",
@@ -1059,5 +1072,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 81
+  "total_count": 82
 }
