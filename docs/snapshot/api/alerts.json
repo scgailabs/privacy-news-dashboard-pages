@@ -1,5 +1,16 @@
 [
   {
+    "alert_type": "gmail",
+    "channel_type": "email",
+    "created_at": "2026-08-26T08:55:01.238232+09:00",
+    "error_detail": "",
+    "event_type": "new_posts",
+    "id": 161,
+    "job_name": "daily_digest",
+    "message": "일일 다이제스트 2건 (2026-08-25~2026-08-25) | trigger_source=scheduled",
+    "status": "sent"
+  },
+  {
     "alert_type": "discord",
     "channel_type": "news",
     "created_at": "2026-08-25T16:01:56.249188+09:00",
@@ -534,17 +545,6 @@
     "error_detail": "",
     "event_type": "new_posts",
     "id": 112,
-    "job_name": "kisa_news",
-    "message": "KISA(보도자료) 신규 1건",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "news",
-    "created_at": "2026-08-05T09:16:39.123786+09:00",
-    "error_detail": "",
-    "event_type": "new_posts",
-    "id": 111,
     "job_name": "kisa_news",
     "message": "KISA(보도자료) 신규 1건",
     "status": "sent"
