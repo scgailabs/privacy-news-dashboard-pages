@@ -1,6 +1,19 @@
 {
-  "count": 82,
+  "count": 83,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-08-26T09:31:36.427758+09:00",
+      "created_at": "2026-08-26T09:31:36.427758+09:00",
+      "hits": "2",
+      "id": 44741,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3749&page=1",
+      "post_date": "2026-08-26",
+      "post_number": "공지",
+      "title": "[3차모집]2026년 정보보호제품 성능평가 지원 공모 사업(~9/16)"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -1072,5 +1085,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 82
+  "total_count": 83
 }
