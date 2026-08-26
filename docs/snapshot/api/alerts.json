@@ -2,6 +2,17 @@
   {
     "alert_type": "discord",
     "channel_type": "news",
+    "created_at": "2026-08-26T15:01:52.639316+09:00",
+    "error_detail": "",
+    "event_type": "new_posts",
+    "id": 163,
+    "job_name": "kisa_news",
+    "message": "KISA(보도자료) 신규 1건",
+    "status": "sent"
+  },
+  {
+    "alert_type": "discord",
+    "channel_type": "news",
     "created_at": "2026-08-26T09:31:51.714347+09:00",
     "error_detail": "",
     "event_type": "new_posts",
@@ -536,17 +547,6 @@
     "id": 114,
     "job_name": "daily_digest",
     "message": "일일 다이제스트 2건 (2026-08-05~2026-08-05) | trigger_source=scheduled",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "news",
-    "created_at": "2026-08-06T08:31:41.151880+09:00",
-    "error_detail": "",
-    "event_type": "new_posts",
-    "id": 113,
-    "job_name": "moleg_news",
-    "message": "법제처(보도자료) 신규 1건",
     "status": "sent"
   }
 ]
