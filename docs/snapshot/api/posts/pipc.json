@@ -1,6 +1,19 @@
 {
-  "count": 74,
+  "count": 75,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-08-27T15:31:06.679425+09:00",
+      "created_at": "2026-08-27T15:31:06.679425+09:00",
+      "department": "범정부 마이데이터추진단",
+      "hits": "4",
+      "id": 46031,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12416",
+      "post_date": "2026-08-27",
+      "post_number": "383",
+      "title": "개인정보보호위원회 개인정보관리 전문기관 지정 공고(공고 제2026-109호)"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -968,5 +981,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 74
+  "total_count": 75
 }
