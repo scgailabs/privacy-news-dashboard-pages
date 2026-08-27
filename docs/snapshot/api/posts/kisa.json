@@ -1,6 +1,19 @@
 {
-  "count": 85,
+  "count": 86,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-08-27T15:01:41.552844+09:00",
+      "created_at": "2026-08-27T15:01:41.552844+09:00",
+      "hits": "6",
+      "id": 46011,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/402/form?postSeq=2628&page=1",
+      "post_date": "2026-08-27",
+      "post_number": "New",
+      "title": "자동차 노리는 사이버 위협, 한국인터넷진흥원-한국교통안전공단이 함께 대응한다"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -1111,5 +1124,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 85
+  "total_count": 86
 }
