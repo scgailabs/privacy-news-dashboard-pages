@@ -1,6 +1,45 @@
 {
-  "count": 71,
+  "count": 74,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-08-27T11:00:26.295039+09:00",
+      "created_at": "2026-08-27T11:00:26.295039+09:00",
+      "department": "조사총괄과",
+      "hits": "6",
+      "id": 45663,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12413",
+      "post_date": "2026-08-27",
+      "post_number": "1296",
+      "title": "실종아동과 입양인 개인정보 유출한 국가아동권리보장원 제재"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-08-27T11:00:26.295039+09:00",
+      "created_at": "2026-08-27T11:00:26.295039+09:00",
+      "department": "조사1과",
+      "hits": "7",
+      "id": 45662,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12414",
+      "post_date": "2026-08-27",
+      "post_number": "1297",
+      "title": "개인정보위, 안전조치 의무를 위반한 HD현대그룹 소속 2개 사업자 제재"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-08-27T11:00:26.295039+09:00",
+      "created_at": "2026-08-27T11:00:26.295039+09:00",
+      "department": "사전실태점검과",
+      "hits": "7",
+      "id": 45661,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12415",
+      "post_date": "2026-08-27",
+      "post_number": "1298",
+      "title": "개인정보위, 금융분야 불필요한 주민등록번호 처리 관행 개선"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -929,5 +968,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 71
+  "total_count": 74
 }
