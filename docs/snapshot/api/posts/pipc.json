@@ -1,6 +1,19 @@
 {
-  "count": 75,
+  "count": 76,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-08-28T12:00:26.392609+09:00",
+      "created_at": "2026-08-28T12:00:26.392609+09:00",
+      "department": "침해평가과",
+      "hits": "7",
+      "id": 46561,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12421",
+      "post_date": "2026-08-28",
+      "post_number": "1299",
+      "title": "인공지능 시대 개인정보 보호와 활용, 최고의 미래 법률 전문가는?"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -981,5 +994,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 75
+  "total_count": 76
 }
