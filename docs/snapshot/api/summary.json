@@ -9,14 +9,14 @@
   "moleg_legis": {
     "display_name": "법제처(입법예고)",
     "last_collected": "2026-08-13T12:15:11.945277+09:00",
-    "last_success": "2026-08-30T14:15:11.211784+09:00",
+    "last_success": "2026-08-30T15:15:11.090130+09:00",
     "latest_post_date": "2026-08-13",
     "total_count": 11
   },
   "moleg_news": {
     "display_name": "법제처(보도자료)",
     "last_collected": "2026-08-28T15:15:21.414160+09:00",
-    "last_success": "2026-08-30T14:15:20.444205+09:00",
+    "last_success": "2026-08-30T15:15:19.985513+09:00",
     "latest_post_date": "2026-08-28",
     "total_count": 22
   },
@@ -30,7 +30,7 @@
   "privacy": {
     "display_name": "개인정보포털",
     "last_collected": "2026-08-10T18:01:43.365104+09:00",
-    "last_success": "2026-08-30T14:16:44.836300+09:00",
+    "last_success": "2026-08-30T15:16:43.920662+09:00",
     "latest_post_date": "2026-08-10",
     "total_count": 28
   }
