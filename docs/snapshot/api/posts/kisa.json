@@ -1,6 +1,19 @@
 {
-  "count": 86,
+  "count": 87,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-08-31T09:16:38.866405+09:00",
+      "created_at": "2026-08-31T09:16:38.866405+09:00",
+      "hits": "21",
+      "id": 48831,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/402/form?postSeq=2630&page=1",
+      "post_date": "2026-08-31",
+      "post_number": "New",
+      "title": "생성형 인공지능(AI) 기반 실전형 모의해킹 대회 개최"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1124,5 +1137,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 86
+  "total_count": 87
 }
