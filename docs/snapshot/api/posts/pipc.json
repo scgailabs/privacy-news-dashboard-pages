@@ -1,6 +1,19 @@
 {
-  "count": 76,
+  "count": 77,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-08-31T11:00:26.848516+09:00",
+      "created_at": "2026-08-31T11:00:26.848516+09:00",
+      "department": "조사2과",
+      "hits": "10",
+      "id": 48941,
+      "link": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12425",
+      "post_date": "2026-08-31",
+      "post_number": "1300",
+      "title": "개인정보위, ㈜지에스리테일 유출사고에 대해 과징금 128억 3,600만 원, 과태료 300만 원 부과"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -994,5 +1007,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 76
+  "total_count": 77
 }
