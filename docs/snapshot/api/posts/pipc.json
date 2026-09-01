@@ -1,6 +1,19 @@
 {
-  "count": 77,
+  "count": 97,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-09-01T12:45:28.346474+09:00",
+      "created_at": "2026-09-01T12:45:28.346474+09:00",
+      "department": "조사2과",
+      "hits": "2020",
+      "id": 49901,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12425",
+      "post_date": "2026-08-31",
+      "post_number": "1300",
+      "title": "개인정보위, ㈜지에스리테일 유출사고에 대해 과징금 128억 3,600만 원, 과태료 300만 원 부과"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -17,6 +30,19 @@
     {
       "attachment": "Yes",
       "board_type": "보도자료",
+      "collected_at": "2026-09-01T12:45:28.346474+09:00",
+      "created_at": "2026-09-01T12:45:28.346474+09:00",
+      "department": "침해평가과",
+      "hits": "1917",
+      "id": 49902,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12421",
+      "post_date": "2026-08-28",
+      "post_number": "1299",
+      "title": "인공지능 시대 개인정보 보호와 활용, 최고의 미래 법률 전문가는?"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
       "collected_at": "2026-08-28T12:00:26.392609+09:00",
       "created_at": "2026-08-28T12:00:26.392609+09:00",
       "department": "침해평가과",
@@ -26,6 +52,58 @@
       "post_date": "2026-08-28",
       "post_number": "1299",
       "title": "인공지능 시대 개인정보 보호와 활용, 최고의 미래 법률 전문가는?"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-09-01T12:46:08.751558+09:00",
+      "created_at": "2026-09-01T12:46:08.751558+09:00",
+      "department": "범정부 마이데이터추진단",
+      "hits": "1955",
+      "id": 49911,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12416",
+      "post_date": "2026-08-27",
+      "post_number": "383",
+      "title": "개인정보보호위원회 개인정보관리 전문기관 지정 공고(공고 제2026-109호)"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-09-01T12:45:28.346474+09:00",
+      "created_at": "2026-09-01T12:45:28.346474+09:00",
+      "department": "조사총괄과",
+      "hits": "2508",
+      "id": 49905,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12413",
+      "post_date": "2026-08-27",
+      "post_number": "1296",
+      "title": "실종아동과 입양인 개인정보 유출한 국가아동권리보장원 제재"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-09-01T12:45:28.346474+09:00",
+      "created_at": "2026-09-01T12:45:28.346474+09:00",
+      "department": "조사1과",
+      "hits": "2889",
+      "id": 49904,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12414",
+      "post_date": "2026-08-27",
+      "post_number": "1297",
+      "title": "개인정보위, 안전조치 의무를 위반한 HD현대그룹 소속 2개 사업자 제재"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-09-01T12:45:28.346474+09:00",
+      "created_at": "2026-09-01T12:45:28.346474+09:00",
+      "department": "사전실태점검과",
+      "hits": "2796",
+      "id": 49903,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12415",
+      "post_date": "2026-08-27",
+      "post_number": "1298",
+      "title": "개인정보위, 금융분야 불필요한 주민등록번호 처리 관행 개선"
     },
     {
       "attachment": "Yes",
@@ -82,6 +160,19 @@
     {
       "attachment": "Yes",
       "board_type": "보도자료",
+      "collected_at": "2026-09-01T12:45:28.346474+09:00",
+      "created_at": "2026-09-01T12:45:28.346474+09:00",
+      "department": "자율보호정책과",
+      "hits": "3052",
+      "id": 49906,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12411",
+      "post_date": "2026-08-25",
+      "post_number": "1295",
+      "title": "정부, 공공부문 개인정보 보호 역량 강화 위한 인력 확충한다"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
       "collected_at": "2026-08-25T12:00:28.630385+09:00",
       "created_at": "2026-08-25T12:00:28.630385+09:00",
       "department": "자율보호정책과",
@@ -91,6 +182,32 @@
       "post_date": "2026-08-25",
       "post_number": "1295",
       "title": "정부, 공공부문 개인정보 보호 역량 강화 위한 인력 확충한다"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-09-01T12:45:28.346474+09:00",
+      "created_at": "2026-09-01T12:45:28.346474+09:00",
+      "department": "혁신기획담당관",
+      "hits": "2780",
+      "id": 49908,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12400",
+      "post_date": "2026-08-24",
+      "post_number": "1293",
+      "title": "개인정보위, 제3회 ‘개인정보 고래상’ 시상"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-09-01T12:45:28.346474+09:00",
+      "created_at": "2026-09-01T12:45:28.346474+09:00",
+      "department": "자율보호정책과",
+      "hits": "3055",
+      "id": 49907,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12402",
+      "post_date": "2026-08-24",
+      "post_number": "1294",
+      "title": "개인정보위, 2026년 공공기관 개인정보 보호수준 평가단 위촉"
     },
     {
       "attachment": "Yes",
@@ -146,6 +263,45 @@
     },
     {
       "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-09-01T12:46:08.751558+09:00",
+      "created_at": "2026-09-01T12:46:08.751558+09:00",
+      "department": "조사총괄과",
+      "hits": "2691",
+      "id": 49913,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12398",
+      "post_date": "2026-08-21",
+      "post_number": "381",
+      "title": "「과징금 투자 감경제도 안내서」 초안 공개 및 의견수렴"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-09-01T12:46:08.751558+09:00",
+      "created_at": "2026-09-01T12:46:08.751558+09:00",
+      "department": "조사총괄과",
+      "hits": "5131",
+      "id": 49912,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12399",
+      "post_date": "2026-08-21",
+      "post_number": "382",
+      "title": "「개인정보 유출등 대응 매뉴얼」 초안 공개 및 의견수렴"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-09-01T12:45:28.346474+09:00",
+      "created_at": "2026-09-01T12:45:28.346474+09:00",
+      "department": "개인정보보호정책과",
+      "hits": "8518",
+      "id": 49909,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12391",
+      "post_date": "2026-08-20",
+      "post_number": "1292",
+      "title": "안전한 인공지능 개발을 위한 개인정보 활용 특례 신설 「개인정보 보호법」 개정안 국회 본회의 통과"
+    },
+    {
+      "attachment": "Yes",
       "board_type": "보도자료",
       "collected_at": "2026-08-20T16:45:27.227566+09:00",
       "created_at": "2026-08-20T16:45:27.227566+09:00",
@@ -156,6 +312,19 @@
       "post_date": "2026-08-20",
       "post_number": "1292",
       "title": "안전한 인공지능 개발을 위한 개인정보 활용 특례 신설 「개인정보 보호법」 개정안 국회 본회의 통과"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-09-01T12:46:08.751558+09:00",
+      "created_at": "2026-09-01T12:46:08.751558+09:00",
+      "department": "범정부 마이데이터추진단",
+      "hits": "8808",
+      "id": 49914,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12387",
+      "post_date": "2026-08-19",
+      "post_number": "380",
+      "title": "(대법원) 스크래핑 차단 한시적 유예 신청(~8.31.) 안내"
     },
     {
       "attachment": "Yes",
@@ -173,6 +342,19 @@
     {
       "attachment": "Yes",
       "board_type": "공지사항",
+      "collected_at": "2026-09-01T12:46:08.751558+09:00",
+      "created_at": "2026-09-01T12:46:08.751558+09:00",
+      "department": "운영지원과",
+      "hits": "4957",
+      "id": 49915,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12379",
+      "post_date": "2026-08-14",
+      "post_number": "379",
+      "title": "2026년 개인정보보호 유공 정부포상 후보자 공개검증"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
       "collected_at": "2026-08-14T18:16:08.177242+09:00",
       "created_at": "2026-08-14T18:16:08.177242+09:00",
       "department": "운영지원과",
@@ -182,6 +364,32 @@
       "post_date": "2026-08-14",
       "post_number": "379",
       "title": "2026년 개인정보보호 유공 정부포상 후보자 공개검증"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-09-01T12:46:08.751558+09:00",
+      "created_at": "2026-09-01T12:46:08.751558+09:00",
+      "department": "혁신기획담당관",
+      "hits": "5234",
+      "id": 49917,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12370",
+      "post_date": "2026-08-13",
+      "post_number": "377",
+      "title": "「개인정보 보호위원회 직제 시행규칙」 일부개정령안 입법예고"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-09-01T12:46:08.751558+09:00",
+      "created_at": "2026-09-01T12:46:08.751558+09:00",
+      "department": "국제협력담당관",
+      "hits": "5492",
+      "id": 49916,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12376",
+      "post_date": "2026-08-13",
+      "post_number": "378",
+      "title": "「국경 간 개인정보 보호 규칙 인증제도의 운영에 관한 지침」 일부개정안 행정예고"
     },
     {
       "attachment": "Yes",
@@ -225,6 +433,32 @@
     {
       "attachment": "Yes",
       "board_type": "공지사항",
+      "collected_at": "2026-09-01T12:46:08.751558+09:00",
+      "created_at": "2026-09-01T12:46:08.751558+09:00",
+      "department": "범정부 마이데이터추진단",
+      "hits": "9323",
+      "id": 49918,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12368",
+      "post_date": "2026-08-11",
+      "post_number": "376",
+      "title": "본인전송요구 대리인의 사전협의 요청 시범기간 추가운영(8.11.~31.) 안내"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-09-01T12:45:28.346474+09:00",
+      "created_at": "2026-09-01T12:45:28.346474+09:00",
+      "department": "범정부마이데이터추진단 전략기획팀",
+      "hits": "8923",
+      "id": 49910,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12367",
+      "post_date": "2026-08-11",
+      "post_number": "1291",
+      "title": "개인정보위, 본인전송요구 대리인의 사전협의 시범운영(3차) 추가신청 받는다"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
       "collected_at": "2026-08-11T11:16:08.723253+09:00",
       "created_at": "2026-08-11T11:16:08.723253+09:00",
       "department": "범정부 마이데이터추진단",
@@ -247,6 +481,19 @@
       "post_date": "2026-08-11",
       "post_number": "1291",
       "title": "개인정보위, 본인전송요구 대리인의 사전협의 시범운영(3차) 추가신청 받는다"
+    },
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-09-01T12:46:08.751558+09:00",
+      "created_at": "2026-09-01T12:46:08.751558+09:00",
+      "department": "운영지원과",
+      "hits": "7069",
+      "id": 49919,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12362",
+      "post_date": "2026-08-06",
+      "post_number": "375",
+      "title": "2026년 민원서비스 종합평가 고충민원 만족도·신뢰도 측정을 위한 개인정보 제3자 제공사항 알림"
     },
     {
       "attachment": "No",
@@ -286,6 +533,19 @@
       "post_date": "2026-07-30",
       "post_number": "1289",
       "title": "개인정보위, ‘㈜KT의개인정보 유출사고’ 제재처분 의결"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-09-01T12:46:08.751558+09:00",
+      "created_at": "2026-09-01T12:46:08.751558+09:00",
+      "department": "자율보호정책과",
+      "hits": "9909",
+      "id": 49920,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12346",
+      "post_date": "2026-07-29",
+      "post_number": "374",
+      "title": "개인정보 영향평가기관 지정갱신 공고"
     },
     {
       "attachment": "Yes",
@@ -1007,5 +1267,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 77
+  "total_count": 97
 }
