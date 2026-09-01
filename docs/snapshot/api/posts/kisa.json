@@ -1,6 +1,19 @@
 {
-  "count": 89,
+  "count": 90,
   "data": [
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-09-01T09:31:38.715793+09:00",
+      "created_at": "2026-09-01T09:31:38.715793+09:00",
+      "hits": "13",
+      "id": 49669,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3752&page=1",
+      "post_date": "2026-09-01",
+      "post_number": "New",
+      "title": "「2026 위치정보 맞춤형 컨설팅 참여기업 모집」"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1163,5 +1176,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 89
+  "total_count": 90
 }

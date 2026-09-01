@@ -1,6 +1,26 @@
 {
-  "count": 22,
+  "count": 24,
   "data": [
+    {
+      "attachment": "Yes",
+      "collected_at": "2026-09-01T10:00:21.340393+09:00",
+      "created_at": "2026-09-01T10:00:21.340393+09:00",
+      "department": "대변인실",
+      "id": 24842,
+      "link": "https://www.moleg.go.kr/board.es?mid=a10501000000&bid=0048&act=view&list_no=156384&tag=&pageCntBySelf=10&nPage=1&keyField=&keyWord=&cg_code=",
+      "post_date": "2026-09-01",
+      "title": "소방공무원 현장 대응 손해배상 보장 강화 및 개인정보 유출 대응 의무 대폭 확대"
+    },
+    {
+      "attachment": "Yes",
+      "collected_at": "2026-09-01T10:00:21.340393+09:00",
+      "created_at": "2026-09-01T10:00:21.340393+09:00",
+      "department": "대변인실",
+      "id": 24841,
+      "link": "https://www.moleg.go.kr/board.es?mid=a10501000000&bid=0048&act=view&list_no=156385&tag=&pageCntBySelf=10&nPage=1&keyField=&keyWord=&cg_code=",
+      "post_date": "2026-09-01",
+      "title": "Strengthening Damage Compensation Guarantee System for Firefighters' On-Site Response"
+    },
     {
       "attachment": "Yes",
       "collected_at": "2026-08-28T15:15:21.414160+09:00",
@@ -226,5 +246,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "moleg_news",
-  "total_count": 22
+  "total_count": 24
 }

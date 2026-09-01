@@ -2,6 +2,28 @@
   {
     "alert_type": "discord",
     "channel_type": "news",
+    "created_at": "2026-09-01T10:01:53.435711+09:00",
+    "error_detail": "",
+    "event_type": "new_posts",
+    "id": 180,
+    "job_name": "moleg_news",
+    "message": "법제처(보도자료) 신규 2건",
+    "status": "sent"
+  },
+  {
+    "alert_type": "discord",
+    "channel_type": "news",
+    "created_at": "2026-09-01T09:31:53.997030+09:00",
+    "error_detail": "",
+    "event_type": "new_posts",
+    "id": 179,
+    "job_name": "kisa_notice",
+    "message": "KISA(공지사항) 신규 1건",
+    "status": "sent"
+  },
+  {
+    "alert_type": "discord",
+    "channel_type": "news",
     "created_at": "2026-09-01T09:01:52.010260+09:00",
     "error_detail": "",
     "event_type": "new_posts",
@@ -525,28 +547,6 @@
     "id": 131,
     "job_name": "daily_digest",
     "message": "일일 다이제스트 2건 (2026-08-12~2026-08-12) | trigger_source=scheduled",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "news",
-    "created_at": "2026-08-12T16:01:40.545519+09:00",
-    "error_detail": "",
-    "event_type": "new_posts",
-    "id": 130,
-    "job_name": "kisa_notice",
-    "message": "KISA(공지사항) 신규 1건",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "news",
-    "created_at": "2026-08-12T15:31:40.858841+09:00",
-    "error_detail": "",
-    "event_type": "new_posts",
-    "id": 129,
-    "job_name": "kisa_notice",
-    "message": "KISA(공지사항) 신규 1건",
     "status": "sent"
   }
 ]
