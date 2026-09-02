@@ -1,6 +1,19 @@
 {
-  "count": 97,
+  "count": 98,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-09-02T15:30:28.387895+09:00",
+      "created_at": "2026-09-02T15:30:28.387895+09:00",
+      "department": "인공지능프라이버시팀",
+      "hits": "1",
+      "id": 50941,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12440",
+      "post_date": "2026-09-02",
+      "post_number": "1301",
+      "title": "‘보이스피싱 근절 종합대책’ 1년, 발생건수 40%·피해액 43% 감소 성과"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1267,5 +1280,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 97
+  "total_count": 98
 }
