@@ -1,6 +1,19 @@
 {
-  "count": 91,
+  "count": 92,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-09-02T11:01:32.173328+09:00",
+      "created_at": "2026-09-02T11:01:32.173328+09:00",
+      "hits": "1",
+      "id": 50601,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3753&page=1",
+      "post_date": "2026-09-02",
+      "post_number": "공지",
+      "title": "2026년 9차 정보보호 인증제품 조달청 벤처나라 추천 희망기업 모집 공고(9월 추천) (~9.18(금) 18시까지)"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1189,5 +1202,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 91
+  "total_count": 92
 }
