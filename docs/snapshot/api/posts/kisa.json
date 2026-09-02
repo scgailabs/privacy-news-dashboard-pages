@@ -1,6 +1,19 @@
 {
-  "count": 92,
+  "count": 93,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-09-02T17:31:25.610368+09:00",
+      "created_at": "2026-09-02T17:31:25.610368+09:00",
+      "hits": "24",
+      "id": 51121,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3754&page=1",
+      "post_date": "2026-09-02",
+      "post_number": "공지",
+      "title": "2026년 블록체인 수요공급협의체(ABLE) 블록체인 수요기업(비금융분야) 모집 공고"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -1202,5 +1215,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 92
+  "total_count": 93
 }
