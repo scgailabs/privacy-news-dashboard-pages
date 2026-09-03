@@ -1,6 +1,16 @@
 {
-  "count": 28,
+  "count": 29,
   "data": [
+    {
+      "author": "관리자",
+      "bbsno": 20915,
+      "collected_at": "2026-09-03T14:16:40.776731+09:00",
+      "created_at": "2026-09-03T14:16:40.776731+09:00",
+      "id": 29,
+      "link": "https://www.privacy.go.kr/front/bbs/bbsView.do?bbsNo=BBSMSTR_000000000001&bbscttNo=20915",
+      "post_date": "2026-09-03",
+      "title": "2026년 개인정보 영향평가 인증시험(2차) 안내"
+    },
     {
       "author": "관리자",
       "bbsno": 20909,
@@ -286,5 +296,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "privacy",
-  "total_count": 28
+  "total_count": 29
 }
