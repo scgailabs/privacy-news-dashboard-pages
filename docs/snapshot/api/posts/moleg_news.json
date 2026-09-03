@@ -1,6 +1,16 @@
 {
-  "count": 24,
+  "count": 25,
   "data": [
+    {
+      "attachment": "Yes",
+      "collected_at": "2026-09-03T10:15:21.147736+09:00",
+      "created_at": "2026-09-03T10:15:21.147736+09:00",
+      "department": "기획재정담당관실",
+      "id": 25671,
+      "link": "https://www.moleg.go.kr/board.es?mid=a10501000000&bid=0048&act=view&list_no=156497&tag=&pageCntBySelf=10&nPage=1&keyField=&keyWord=&cg_code=",
+      "post_date": "2026-09-03",
+      "title": "2027년도 법제처 예산안 700억 원 편성, 올해 대비 15.6% 증가"
+    },
     {
       "attachment": "Yes",
       "collected_at": "2026-09-01T10:00:21.340393+09:00",
@@ -246,5 +256,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "moleg_news",
-  "total_count": 24
+  "total_count": 25
 }
