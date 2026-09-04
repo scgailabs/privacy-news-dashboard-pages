@@ -1,6 +1,19 @@
 {
-  "count": 98,
+  "count": 99,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-09-04T10:00:24.513793+09:00",
+      "created_at": "2026-09-04T10:00:24.513793+09:00",
+      "department": "혁신기획담당관",
+      "hits": "1",
+      "id": 52141,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12442",
+      "post_date": "2026-09-04",
+      "post_number": "1302",
+      "title": "개인정보위, 2027년 예산안 996억 원 반영❶예방‧보호, ❷AX 혁신 안전 활용에 중점 투자"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1280,5 +1293,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 98
+  "total_count": 99
 }
