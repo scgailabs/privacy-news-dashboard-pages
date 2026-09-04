@@ -5,11 +5,11 @@
       "status": "never"
     },
     "moleg_legis": {
-      "last_run": "2026-09-04T16:15:11.199876+09:00",
+      "last_run": "2026-09-04T17:15:11.301531+09:00",
       "status": "success"
     },
     "moleg_news": {
-      "last_run": "2026-09-04T16:15:20.155477+09:00",
+      "last_run": "2026-09-04T17:15:19.677645+09:00",
       "status": "success"
     },
     "pipc": {
@@ -17,7 +17,7 @@
       "status": "never"
     },
     "privacy": {
-      "last_run": "2026-09-04T16:16:40.025060+09:00",
+      "last_run": "2026-09-04T17:16:37.565143+09:00",
       "status": "success"
     }
   },
@@ -25,45 +25,45 @@
   "heartbeats": [
     {
       "detail": "heartbeat",
-      "id": 92334,
+      "id": 92394,
       "job_name": "",
       "service_name": "privacy-news-crawler",
       "status": "alive",
-      "updated_at": "Fri, 04 Sep 2026 07:19:46 GMT"
+      "updated_at": "Fri, 04 Sep 2026 08:19:46 GMT"
     },
     {
       "detail": "heartbeat",
-      "id": 92333,
+      "id": 92393,
       "job_name": "",
       "service_name": "privacy-news-crawler",
       "status": "alive",
-      "updated_at": "Fri, 04 Sep 2026 07:18:46 GMT"
+      "updated_at": "Fri, 04 Sep 2026 08:18:46 GMT"
     },
     {
       "detail": "heartbeat",
-      "id": 92332,
+      "id": 92392,
       "job_name": "",
       "service_name": "privacy-news-crawler",
       "status": "alive",
-      "updated_at": "Fri, 04 Sep 2026 07:17:46 GMT"
+      "updated_at": "Fri, 04 Sep 2026 08:17:46 GMT"
     },
     {
       "detail": "heartbeat",
-      "id": 92331,
+      "id": 92391,
       "job_name": "",
       "service_name": "privacy-news-crawler",
       "status": "alive",
-      "updated_at": "Fri, 04 Sep 2026 07:16:46 GMT"
+      "updated_at": "Fri, 04 Sep 2026 08:16:46 GMT"
     },
     {
       "detail": "heartbeat",
-      "id": 92330,
+      "id": 92390,
       "job_name": "",
       "service_name": "privacy-news-crawler",
       "status": "alive",
-      "updated_at": "Fri, 04 Sep 2026 07:15:46 GMT"
+      "updated_at": "Fri, 04 Sep 2026 08:15:46 GMT"
     }
   ],
   "selenium": "ready",
-  "timestamp": "2026-09-04T16:20:00.319208"
+  "timestamp": "2026-09-04T17:20:00.331273"
 }
