@@ -2,6 +2,17 @@
   {
     "alert_type": "discord",
     "channel_type": "news",
+    "created_at": "2026-09-07T14:01:40.686572+09:00",
+    "error_detail": "",
+    "event_type": "new_posts",
+    "id": 197,
+    "job_name": "moleg_news",
+    "message": "법제처(보도자료) 신규 1건",
+    "status": "sent"
+  },
+  {
+    "alert_type": "discord",
+    "channel_type": "news",
     "created_at": "2026-09-07T12:01:40.635771+09:00",
     "error_detail": "",
     "event_type": "new_posts",
@@ -536,17 +547,6 @@
     "id": 148,
     "job_name": "daily_digest",
     "message": "일일 다이제스트 1건 (2026-08-20~2026-08-20) | trigger_source=scheduled",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "news",
-    "created_at": "2026-08-20T16:46:53.176857+09:00",
-    "error_detail": "",
-    "event_type": "new_posts",
-    "id": 147,
-    "job_name": "pipc_news",
-    "message": "개인정보보호위원회(보도자료) 신규 1건",
     "status": "sent"
   }
 ]
