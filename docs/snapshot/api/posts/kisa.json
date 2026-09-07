@@ -1,6 +1,19 @@
 {
-  "count": 95,
+  "count": 96,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-09-07T12:01:35.243341+09:00",
+      "created_at": "2026-09-07T12:01:35.243341+09:00",
+      "hits": "9",
+      "id": 54791,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/402/form?postSeq=2633&page=1",
+      "post_date": "2026-09-07",
+      "post_number": "New",
+      "title": "국내 캐시 도메인이름시스템(DNS) 운영기관, 신규 암호키 반영 여부 확인하세요"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -1241,5 +1254,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 95
+  "total_count": 96
 }
