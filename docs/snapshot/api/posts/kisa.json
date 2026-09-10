@@ -1,6 +1,19 @@
 {
-  "count": 99,
+  "count": 100,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-09-10T10:46:38.794916+09:00",
+      "created_at": "2026-09-10T10:46:38.794916+09:00",
+      "hits": "10",
+      "id": 57149,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3760&page=1",
+      "post_date": "2026-09-10",
+      "post_number": "New",
+      "title": "2026년 클라우드 서비스 보안인증(CSAP) 교육 안내"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1293,5 +1306,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 99
+  "total_count": 100
 }

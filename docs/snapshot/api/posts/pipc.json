@@ -1,6 +1,19 @@
 {
-  "count": 99,
+  "count": 100,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-09-10T11:00:27.246391+09:00",
+      "created_at": "2026-09-10T11:00:27.246391+09:00",
+      "department": "개인정보보호정책과",
+      "hits": "11",
+      "id": 57141,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12459",
+      "post_date": "2026-09-10",
+      "post_number": "1303",
+      "title": "개인정보 유출 사전예방·피해구제 강화를 위한 개인정보 보호법·시행령·고시, 9월 11일부터 시행"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1293,5 +1306,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 99
+  "total_count": 100
 }
