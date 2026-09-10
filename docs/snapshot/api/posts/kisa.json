@@ -1,5 +1,5 @@
 {
-  "count": 97,
+  "count": 99,
   "data": [
     {
       "attachment": "Yes",
@@ -13,6 +13,19 @@
       "post_date": "2026-09-09",
       "post_number": "New",
       "title": "보호나라 챗봇, 국민 생활 속 정보보호 성과 인정"
+    },
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-09-10T08:31:37.677434+09:00",
+      "created_at": "2026-09-10T08:31:37.677434+09:00",
+      "hits": "402",
+      "id": 56969,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3758&page=1",
+      "post_date": "2026-09-07",
+      "post_number": "1522",
+      "title": "온마이데이터 서비스 이용 이벤트 안내"
     },
     {
       "attachment": "Yes",
@@ -52,6 +65,19 @@
       "post_date": "2026-09-03",
       "post_number": "공지",
       "title": "(행사 안내) 국외이전 제도 개선 및 CBPR 인증제도 기업 설명회 개최"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-09-10T08:31:37.677434+09:00",
+      "created_at": "2026-09-10T08:31:37.677434+09:00",
+      "hits": "242",
+      "id": 56970,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3755&page=1",
+      "post_date": "2026-09-02",
+      "post_number": "1521",
+      "title": "2026 부산지역 도메인이름 분쟁해결 세미나 개최 안내(9.11)"
     },
     {
       "attachment": "Yes",
@@ -1267,5 +1293,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 97
+  "total_count": 99
 }
