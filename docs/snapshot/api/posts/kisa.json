@@ -1,6 +1,19 @@
 {
-  "count": 100,
+  "count": 101,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-09-10T14:16:31.877229+09:00",
+      "created_at": "2026-09-10T14:16:31.877229+09:00",
+      "hits": "8",
+      "id": 57381,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3761&page=1",
+      "post_date": "2026-09-10",
+      "post_number": "공지",
+      "title": "2026 전자문서 유공 포상 공고"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -1306,5 +1319,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 100
+  "total_count": 101
 }
