@@ -1,6 +1,36 @@
 [
   {
     "alert_sent": false,
+    "created_at": "2026-09-11T08:32:01.542266+09:00",
+    "duration_seconds": 23.56011390686035,
+    "error_message": "selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/402 | page_len=118619",
+    "error_type": "selector_timeout",
+    "id": 20229,
+    "job_name": "kisa_news",
+    "new_records": 0,
+    "records_saved": 0,
+    "run_id": "d25c0ea9",
+    "session_id": "",
+    "status": "failure",
+    "target_range": ""
+  },
+  {
+    "alert_sent": false,
+    "created_at": "2026-09-11T08:31:35.924081+09:00",
+    "duration_seconds": 25.49657106399536,
+    "error_message": "selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/401 | page_len=118619",
+    "error_type": "selector_timeout",
+    "id": 20228,
+    "job_name": "kisa_notice",
+    "new_records": 0,
+    "records_saved": 0,
+    "run_id": "e5d47e37",
+    "session_id": "",
+    "status": "failure",
+    "target_range": ""
+  },
+  {
+    "alert_sent": false,
     "created_at": "2026-09-10T17:02:00.336845+09:00",
     "duration_seconds": 23.417096376419067,
     "error_message": "selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/402 | page_len=118619",
