@@ -2,6 +2,28 @@
   {
     "alert_type": "discord",
     "channel_type": "notify",
+    "created_at": "2026-09-12T12:17:05.564479+09:00",
+    "error_detail": "",
+    "event_type": "failure",
+    "id": 240,
+    "job_name": "kisa_news",
+    "message": "KISA(보도자료) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/402 | page_len=118619",
+    "status": "sent"
+  },
+  {
+    "alert_type": "discord",
+    "channel_type": "notify",
+    "created_at": "2026-09-12T12:16:38.852067+09:00",
+    "error_detail": "",
+    "event_type": "failure",
+    "id": 239,
+    "job_name": "kisa_notice",
+    "message": "KISA(공지사항) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/401 | page_len=118619",
+    "status": "sent"
+  },
+  {
+    "alert_type": "discord",
+    "channel_type": "notify",
     "created_at": "2026-09-12T10:17:04.933790+09:00",
     "error_detail": "",
     "event_type": "failure",
@@ -525,28 +547,6 @@
     "id": 191,
     "job_name": "privacy",
     "message": "개인정보포털 신규 1건",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "news",
-    "created_at": "2026-09-03T10:16:41.451016+09:00",
-    "error_detail": "",
-    "event_type": "new_posts",
-    "id": 190,
-    "job_name": "moleg_news",
-    "message": "법제처(보도자료) 신규 1건",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "news",
-    "created_at": "2026-09-03T09:16:42.216051+09:00",
-    "error_detail": "",
-    "event_type": "new_posts",
-    "id": 189,
-    "job_name": "kisa_notice",
-    "message": "KISA(공지사항) 신규 1건",
     "status": "sent"
   }
 ]
