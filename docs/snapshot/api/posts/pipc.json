@@ -1,6 +1,19 @@
 {
-  "count": 104,
+  "count": 105,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-09-14T10:00:28.177751+09:00",
+      "created_at": "2026-09-14T10:00:28.177751+09:00",
+      "department": "사전실태점검과",
+      "hits": "1",
+      "id": 60342,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12470",
+      "post_date": "2026-09-14",
+      "post_number": "1305",
+      "title": "로봇청소기 영상·음성 등 개인정보 전반적으로 안전하게 관리, 일부 미흡 사항 시정 권고"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1358,5 +1371,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 104
+  "total_count": 105
 }
