@@ -1,6 +1,16 @@
 {
-  "count": 28,
+  "count": 29,
   "data": [
+    {
+      "attachment": "Yes",
+      "collected_at": "2026-09-16T15:15:18.945495+09:00",
+      "created_at": "2026-09-16T15:15:18.945495+09:00",
+      "department": "운영지원과",
+      "id": 31201,
+      "link": "https://www.moleg.go.kr/board.es?mid=a10501000000&bid=0048&act=view&list_no=157132&tag=&pageCntBySelf=10&nPage=1&keyField=&keyWord=&cg_code=",
+      "post_date": "2026-09-16",
+      "title": "법제처, 추석 명절을 맞아 공주산성시장 방문"
+    },
     {
       "attachment": "Yes",
       "collected_at": "2026-09-11T15:00:20.077861+09:00",
@@ -286,5 +296,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "moleg_news",
-  "total_count": 28
+  "total_count": 29
 }
