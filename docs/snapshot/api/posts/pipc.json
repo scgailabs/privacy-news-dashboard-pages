@@ -1,6 +1,19 @@
 {
-  "count": 105,
+  "count": 106,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-09-16T09:01:07.333518+09:00",
+      "created_at": "2026-09-16T09:01:07.333518+09:00",
+      "department": "자율보호정책과",
+      "hits": "3",
+      "id": 61911,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12502",
+      "post_date": "2026-09-16",
+      "post_number": "386",
+      "title": "「개인정보 보호법 시행령」 일부개정령(안) 입법예고"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1371,5 +1384,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 105
+  "total_count": 106
 }
