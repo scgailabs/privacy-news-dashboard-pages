@@ -1,6 +1,19 @@
 {
-  "count": 109,
+  "count": 110,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-09-16T16:16:04.999968+09:00",
+      "created_at": "2026-09-16T16:16:04.999968+09:00",
+      "department": "디지털소통팀",
+      "hits": "4",
+      "id": 62491,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12505",
+      "post_date": "2026-09-16",
+      "post_number": "387",
+      "title": "제6회 개인정보 보호의 날 기념식 개최(9.30.)"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -1423,5 +1436,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 109
+  "total_count": 110
 }
