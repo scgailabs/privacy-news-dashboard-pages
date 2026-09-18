@@ -1,6 +1,16 @@
 {
-  "count": 30,
+  "count": 31,
   "data": [
+    {
+      "attachment": "Yes",
+      "collected_at": "2026-09-18T11:15:19.901041+09:00",
+      "created_at": "2026-09-18T11:15:19.901041+09:00",
+      "department": "법제교류협력담당관실",
+      "id": 31861,
+      "link": "https://www.moleg.go.kr/board.es?mid=a10501000000&bid=0048&act=view&list_no=157225&tag=&pageCntBySelf=10&nPage=1&keyField=&keyWord=&cg_code=",
+      "post_date": "2026-09-18",
+      "title": "법제처, 아시아 법제기구 협의체에 네팔 가입 승인 및 법 접근성 강화 관련 논의"
+    },
     {
       "attachment": "Yes",
       "collected_at": "2026-09-17T16:15:20.031512+09:00",
@@ -306,5 +316,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "moleg_news",
-  "total_count": 30
+  "total_count": 31
 }

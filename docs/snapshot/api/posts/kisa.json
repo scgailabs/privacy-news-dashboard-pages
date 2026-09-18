@@ -1,6 +1,32 @@
 {
-  "count": 107,
+  "count": 109,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-09-18T10:46:37.266535+09:00",
+      "created_at": "2026-09-18T10:46:37.266535+09:00",
+      "hits": "6",
+      "id": 63068,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3766&page=1",
+      "post_date": "2026-09-18",
+      "post_number": "New",
+      "title": "대국민 혁신 정책·제안 공모전 개최"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-09-18T10:31:43.770443+09:00",
+      "created_at": "2026-09-18T10:31:43.770443+09:00",
+      "hits": "9",
+      "id": 63051,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/402/form?postSeq=2638&page=1",
+      "post_date": "2026-09-18",
+      "post_number": "New",
+      "title": "세계경제포럼·싱가포르 사이버보안청과 인공지능(AI) 위협 대비 사이버보안 협력 강화"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -1397,5 +1423,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 107
+  "total_count": 109
 }
