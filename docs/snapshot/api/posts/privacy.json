@@ -1,6 +1,16 @@
 {
-  "count": 30,
+  "count": 31,
   "data": [
+    {
+      "author": "관리자",
+      "bbsno": 20920,
+      "collected_at": "2026-09-19T14:16:49.840552+09:00",
+      "created_at": "2026-09-19T14:16:49.840552+09:00",
+      "id": 31,
+      "link": "https://www.privacy.go.kr/front/bbs/bbsView.do?bbsNo=BBSMSTR_000000000001&bbscttNo=20920",
+      "post_date": "2026-09-19",
+      "title": "제6회 개인정보 보호의 날(9.30.) 기념식 개최"
+    },
     {
       "author": "관리자",
       "bbsno": 20917,
@@ -306,5 +316,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "privacy",
-  "total_count": 30
+  "total_count": 31
 }
