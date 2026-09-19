@@ -1,6 +1,28 @@
 [
   {
     "alert_type": "discord",
+    "channel_type": "notify",
+    "created_at": "2026-09-19T10:02:01.890984+09:00",
+    "error_detail": "",
+    "event_type": "failure",
+    "id": 305,
+    "job_name": "kisa_news",
+    "message": "KISA(보도자료) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/402 | page_len=118619",
+    "status": "sent"
+  },
+  {
+    "alert_type": "discord",
+    "channel_type": "notify",
+    "created_at": "2026-09-19T10:01:36.204172+09:00",
+    "error_detail": "",
+    "event_type": "failure",
+    "id": 304,
+    "job_name": "kisa_notice",
+    "message": "KISA(공지사항) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/401 | page_len=118619",
+    "status": "sent"
+  },
+  {
+    "alert_type": "discord",
     "channel_type": "news",
     "created_at": "2026-09-18T17:16:49.141174+09:00",
     "error_detail": "",
@@ -525,28 +547,6 @@
     "id": 256,
     "job_name": "daily_digest",
     "message": "일일 다이제스트 4건 (2026-09-11~2026-09-13) | trigger_source=scheduled",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "notify",
-    "created_at": "2026-09-13T18:17:04.620780+09:00",
-    "error_detail": "",
-    "event_type": "failure",
-    "id": 255,
-    "job_name": "kisa_news",
-    "message": "KISA(보도자료) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/402 | page_len=118619",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "notify",
-    "created_at": "2026-09-13T18:16:38.240509+09:00",
-    "error_detail": "",
-    "event_type": "failure",
-    "id": 254,
-    "job_name": "kisa_notice",
-    "message": "KISA(공지사항) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/401 | page_len=118619",
     "status": "sent"
   }
 ]
