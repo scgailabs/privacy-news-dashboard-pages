@@ -1,6 +1,19 @@
 {
-  "count": 109,
+  "count": 110,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-09-20T12:01:47.233521+09:00",
+      "created_at": "2026-09-20T12:01:47.233521+09:00",
+      "hits": "2",
+      "id": 64631,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/402/form?postSeq=2639&page=1",
+      "post_date": "2026-09-18",
+      "post_number": "990",
+      "title": "한국인터넷진흥원, 인터넷 주소 자원 관리 역량 국제적 인정받아"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -1423,5 +1436,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 109
+  "total_count": 110
 }
