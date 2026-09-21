@@ -1,6 +1,16 @@
 {
-  "count": 31,
+  "count": 32,
   "data": [
+    {
+      "attachment": "Yes",
+      "collected_at": "2026-09-21T11:00:21.026847+09:00",
+      "created_at": "2026-09-21T11:00:21.026847+09:00",
+      "department": "법제교류협력담당관실",
+      "id": 33082,
+      "link": "https://www.moleg.go.kr/board.es?mid=a10501000000&bid=0048&act=view&list_no=157381&tag=&pageCntBySelf=10&nPage=1&keyField=&keyWord=&cg_code=",
+      "post_date": "2026-09-18",
+      "title": "MOLEG approves Nepal's accession to Council of Asian Legislative Institutions and ..."
+    },
     {
       "attachment": "Yes",
       "collected_at": "2026-09-18T11:15:19.901041+09:00",
@@ -316,5 +326,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "moleg_news",
-  "total_count": 31
+  "total_count": 32
 }
