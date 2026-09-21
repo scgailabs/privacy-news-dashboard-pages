@@ -1,6 +1,45 @@
 {
-  "count": 112,
+  "count": 115,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-09-21T10:01:11.083915+09:00",
+      "created_at": "2026-09-21T10:01:11.083915+09:00",
+      "department": "데이터안전정책과",
+      "hits": "2",
+      "id": 66092,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12518",
+      "post_date": "2026-09-21",
+      "post_number": "388",
+      "title": "2026년도 개인정보 이노베이션 존 운영기관 예비지정 공고"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-09-21T10:00:31.705975+09:00",
+      "created_at": "2026-09-21T10:00:31.705975+09:00",
+      "department": "데이터안전정책과",
+      "hits": "0",
+      "id": 66082,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12520",
+      "post_date": "2026-09-21",
+      "post_number": "1310",
+      "title": "인공지능(AI)시대의 데이터 혁신 활용 거점 ‘개인정보 이노베이션 존’ 추가 지정"
+    },
+    {
+      "attachment": "No",
+      "board_type": "보도자료",
+      "collected_at": "2026-09-21T10:00:31.705975+09:00",
+      "created_at": "2026-09-21T10:00:31.705975+09:00",
+      "department": "운영지원과",
+      "hits": "36",
+      "id": 66081,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12524",
+      "post_date": "2026-09-21",
+      "post_number": "1311",
+      "title": "정부인사 발령(개인정보보호위원회)"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -1462,5 +1501,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 112
+  "total_count": 115
 }
