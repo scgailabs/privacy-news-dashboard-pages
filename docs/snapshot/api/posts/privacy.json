@@ -1,6 +1,16 @@
 {
-  "count": 31,
+  "count": 32,
   "data": [
+    {
+      "author": "관리자",
+      "bbsno": 20921,
+      "collected_at": "2026-09-21T14:16:53.533733+09:00",
+      "created_at": "2026-09-21T14:16:53.533733+09:00",
+      "id": 32,
+      "link": "https://www.privacy.go.kr/front/bbs/bbsView.do?bbsNo=BBSMSTR_000000000001&bbscttNo=20921",
+      "post_date": "2026-09-21",
+      "title": "정보주체 권리행사(본인확인 내역조회, 웹사이트 회원탈퇴) 서비스 일시 중단 안내 (2026.10.18 (일) 00:00 ~10:00)"
+    },
     {
       "author": "관리자",
       "bbsno": 20920,
@@ -316,5 +326,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "privacy",
-  "total_count": 31
+  "total_count": 32
 }
