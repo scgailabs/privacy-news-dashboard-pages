@@ -1,6 +1,16 @@
 {
-  "count": 32,
+  "count": 33,
   "data": [
+    {
+      "attachment": "Yes",
+      "collected_at": "2026-09-22T15:30:19.394844+09:00",
+      "created_at": "2026-09-22T15:30:19.394844+09:00",
+      "department": "법제조정법제관실",
+      "id": 33671,
+      "link": "https://www.moleg.go.kr/board.es?mid=a10501000000&bid=0048&act=view&list_no=157435&tag=&pageCntBySelf=10&nPage=1&keyField=&keyWord=&cg_code=",
+      "post_date": "2026-09-22",
+      "title": "법제처, 인신매매 피해자의 권익 보호 강화를 위해 현장의 목소리를 듣다"
+    },
     {
       "attachment": "Yes",
       "collected_at": "2026-09-21T11:00:21.026847+09:00",
@@ -326,5 +336,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "moleg_news",
-  "total_count": 32
+  "total_count": 33
 }
