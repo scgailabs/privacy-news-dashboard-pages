@@ -1,6 +1,19 @@
 {
-  "count": 111,
+  "count": 112,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-09-22T10:01:34.273734+09:00",
+      "created_at": "2026-09-22T10:01:34.273734+09:00",
+      "hits": "7",
+      "id": 65988,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3768&page=1",
+      "post_date": "2026-09-22",
+      "post_number": "New",
+      "title": "2026년도 K-Cybersecurity Business Day in Japan 세미나(10/20) 참석 수요조사 안내"
+    },
     {
       "attachment": "No",
       "board_type": "공지사항",
@@ -1449,5 +1462,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 111
+  "total_count": 112
 }
