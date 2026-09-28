@@ -1,6 +1,19 @@
 {
-  "count": 120,
+  "count": 121,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-09-28T18:00:26.632041+09:00",
+      "created_at": "2026-09-28T18:00:26.632041+09:00",
+      "department": "국제협력담당관",
+      "hits": "16",
+      "id": 72461,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12535",
+      "post_date": "2026-09-28",
+      "post_number": "1316",
+      "title": "개인정보위, 인공지능 혁신을 이끌 글로벌 프라이버시 가드레일 설계"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1566,5 +1579,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 120
+  "total_count": 121
 }
