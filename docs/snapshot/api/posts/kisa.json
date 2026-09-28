@@ -1,6 +1,45 @@
 {
-  "count": 114,
+  "count": 117,
   "data": [
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-09-28T12:01:47.314055+09:00",
+      "created_at": "2026-09-28T12:01:47.314055+09:00",
+      "hits": "27",
+      "id": 70486,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3771&page=1",
+      "post_date": "2026-09-28",
+      "post_number": "New",
+      "title": "「2026 블록체인 밋업데이(BCMD)」 27회차 교육생 모집(~10.23)"
+    },
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-09-28T12:01:47.314055+09:00",
+      "created_at": "2026-09-28T12:01:47.314055+09:00",
+      "hits": "21",
+      "id": 70485,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3772&page=1",
+      "post_date": "2026-09-28",
+      "post_number": "New",
+      "title": "「2026 블록체인 밋업데이(BCMD)」 28회차 교육생 모집(~10.24)"
+    },
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-09-28T11:31:41.790745+09:00",
+      "created_at": "2026-09-28T11:31:41.790745+09:00",
+      "hits": "5",
+      "id": 70465,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3770&page=1",
+      "post_date": "2026-09-28",
+      "post_number": "New",
+      "title": "「2026 블록체인 진흥주간」 취업 컨설팅 모집 안내(~10.30)"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1488,5 +1527,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 114
+  "total_count": 117
 }
