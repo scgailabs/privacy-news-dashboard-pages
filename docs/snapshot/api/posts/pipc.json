@@ -1,6 +1,19 @@
 {
-  "count": 119,
+  "count": 120,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-09-28T15:30:28.242308+09:00",
+      "created_at": "2026-09-28T15:30:28.242308+09:00",
+      "department": "개인정보보호정책과",
+      "hits": "2",
+      "id": 72261,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12532",
+      "post_date": "2026-09-28",
+      "post_number": "1316",
+      "title": "“국민의 개인정보 보호를 최우선 경영가치로” 개인정보위원장-통신3사 최고경영자(CEO) 간담회 개최"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1553,5 +1566,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 119
+  "total_count": 120
 }
