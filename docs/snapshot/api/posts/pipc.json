@@ -1,6 +1,19 @@
 {
-  "count": 117,
+  "count": 118,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-09-28T10:00:28.018143+09:00",
+      "created_at": "2026-09-28T10:00:28.018143+09:00",
+      "department": "개인정보보호정책과",
+      "hits": "5",
+      "id": 71821,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12529",
+      "post_date": "2026-09-28",
+      "post_number": "1316",
+      "title": "국민·기업·정부가 함께 만드는 개인정보 보호 문화… 「2026 개인정보 보호주간」 운영"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1527,5 +1540,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 117
+  "total_count": 118
 }
