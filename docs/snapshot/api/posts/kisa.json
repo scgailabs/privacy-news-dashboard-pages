@@ -1,6 +1,19 @@
 {
-  "count": 113,
+  "count": 114,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-09-28T08:31:53.468509+09:00",
+      "created_at": "2026-09-28T08:31:53.468509+09:00",
+      "hits": "25",
+      "id": 70251,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/402/form?postSeq=2640&page=1",
+      "post_date": "2026-09-23",
+      "post_number": "991",
+      "title": "인공지능(AI)·디지털 시대, 새로운 법적 문제 해법 찾는다"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -1475,5 +1488,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 113
+  "total_count": 114
 }
