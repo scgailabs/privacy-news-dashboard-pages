@@ -1,6 +1,19 @@
 {
-  "count": 121,
+  "count": 122,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-09-30T13:31:41.909567+09:00",
+      "created_at": "2026-09-30T13:31:41.909567+09:00",
+      "hits": "12",
+      "id": 72081,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3775&page=1",
+      "post_date": "2026-09-30",
+      "post_number": "공지",
+      "title": "[기간연장] 2026 전자문서 유공 포상 공고 연장 안내(~10.13 14:00 마감)"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1579,5 +1592,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 121
+  "total_count": 122
 }
