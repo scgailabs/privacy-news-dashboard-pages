@@ -1,6 +1,19 @@
 {
-  "count": 126,
+  "count": 127,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-10-01T12:00:27.608640+09:00",
+      "created_at": "2026-10-01T12:00:27.608640+09:00",
+      "department": "개인정보보호정책과",
+      "hits": "7",
+      "id": 74441,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12550",
+      "post_date": "2026-10-01",
+      "post_number": "1323",
+      "title": "인공지능(AI) 시대 안전한 개인정보 보호·활용 방안, 국민 의견 모은다"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1644,5 +1657,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 126
+  "total_count": 127
 }
