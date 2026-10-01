@@ -1,6 +1,32 @@
 {
-  "count": 124,
+  "count": 126,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-10-01T10:00:26.238867+09:00",
+      "created_at": "2026-10-01T10:00:26.238867+09:00",
+      "department": "국제협력담당관",
+      "hits": "4",
+      "id": 74281,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12549",
+      "post_date": "2026-10-01",
+      "post_number": "1323",
+      "title": "개인정보위, 영국 개인정보 보호 수준 동등성 인정 검토 착수"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-10-01T09:30:25.933332+09:00",
+      "created_at": "2026-10-01T09:30:25.933332+09:00",
+      "department": "사전실태점검과",
+      "hits": "1",
+      "id": 74241,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12548",
+      "post_date": "2026-10-01",
+      "post_number": "1323",
+      "title": "공공부문 사이버보안 징계기준 강화, 기관장 엄중 책임"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1618,5 +1644,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 124
+  "total_count": 126
 }
