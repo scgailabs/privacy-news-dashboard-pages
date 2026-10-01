@@ -1,6 +1,19 @@
 {
-  "count": 127,
+  "count": 128,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-10-01T17:00:26.046501+09:00",
+      "created_at": "2026-10-01T17:00:26.046501+09:00",
+      "department": "데이터안전정책과",
+      "hits": "2",
+      "id": 74841,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12551",
+      "post_date": "2026-10-01",
+      "post_number": "1323",
+      "title": "개인정보위, 해양수도 부산에서 개인정보 제도 혁신 방안 밑그림 그려"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1657,5 +1670,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 127
+  "total_count": 128
 }
