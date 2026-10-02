@@ -1,6 +1,19 @@
 {
-  "count": 129,
+  "count": 130,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-10-02T16:00:25.875240+09:00",
+      "created_at": "2026-10-02T16:00:25.875240+09:00",
+      "department": "사전실태점검과",
+      "hits": "4",
+      "id": 75581,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12556",
+      "post_date": "2026-10-02",
+      "post_number": "1325",
+      "title": "제5차 인공지능책임관(CAIO) 협의회 개최"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1683,5 +1696,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 129
+  "total_count": 130
 }
