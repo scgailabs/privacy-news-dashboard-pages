@@ -1,5 +1,5 @@
 {
-  "count": 123,
+  "count": 124,
   "data": [
     {
       "attachment": "Yes",
@@ -13,6 +13,19 @@
       "post_date": "2026-10-01",
       "post_number": "New",
       "title": "2026년 10차 정보보호 인증제품 조달청 벤처나라 추천 희망기업 모집 공고(10월 추천) (~10.23(금) 18시까지)"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-10-02T11:16:42.655140+09:00",
+      "created_at": "2026-10-02T11:16:42.655140+09:00",
+      "hits": "4",
+      "id": 73322,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3774&page=1",
+      "post_date": "2026-09-30",
+      "post_number": "공지",
+      "title": "2026년도 암호모듈 전문교육 심화과정 신청·접수 안내(9.30~10.16 , 무료/선착순 200명)"
     },
     {
       "attachment": "Yes",
@@ -1605,5 +1618,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 123
+  "total_count": 124
 }
