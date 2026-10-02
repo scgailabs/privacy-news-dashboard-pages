@@ -1,6 +1,19 @@
 {
-  "count": 124,
+  "count": 125,
   "data": [
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-10-02T13:46:40.781553+09:00",
+      "created_at": "2026-10-02T13:46:40.781553+09:00",
+      "hits": "2",
+      "id": 73484,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3777&page=1",
+      "post_date": "2026-10-02",
+      "post_number": "New",
+      "title": "양자내성암호 전환 경진대회·해커톤 참가자 신청·접수 안내(10.1~10.31)"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -1618,5 +1631,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 124
+  "total_count": 125
 }
