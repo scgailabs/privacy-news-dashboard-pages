@@ -1,6 +1,19 @@
 {
-  "count": 127,
+  "count": 128,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-10-07T17:46:44.343492+09:00",
+      "created_at": "2026-10-07T17:46:44.343492+09:00",
+      "hits": "9",
+      "id": 77501,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3778&page=1",
+      "post_date": "2026-10-07",
+      "post_number": "공지",
+      "title": "2026년 블록체인 기업 IR 경진대회 모집 공고(~10월 22일)"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1657,5 +1670,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 127
+  "total_count": 128
 }

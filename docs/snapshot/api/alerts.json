@@ -1,6 +1,17 @@
 [
   {
     "alert_type": "discord",
+    "channel_type": "news",
+    "created_at": "2026-10-07T17:47:00.504715+09:00",
+    "error_detail": "",
+    "event_type": "new_posts",
+    "id": 530,
+    "job_name": "kisa_notice",
+    "message": "KISA(공지사항) 신규 1건",
+    "status": "sent"
+  },
+  {
+    "alert_type": "discord",
     "channel_type": "notify",
     "created_at": "2026-10-07T15:32:00.489556+09:00",
     "error_detail": "",
@@ -536,17 +547,6 @@
     "id": 481,
     "job_name": "moleg_news",
     "message": "법제처(보도자료) 신규 1건",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "news",
-    "created_at": "2026-10-02T13:46:55.484134+09:00",
-    "error_detail": "",
-    "event_type": "new_posts",
-    "id": 480,
-    "job_name": "kisa_notice",
-    "message": "KISA(공지사항) 신규 1건",
     "status": "sent"
   }
 ]
