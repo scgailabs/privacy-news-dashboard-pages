@@ -1,5 +1,27 @@
 [
   {
+    "alert_type": "gmail",
+    "channel_type": "email",
+    "created_at": "2026-10-07T08:55:01.048784+09:00",
+    "error_detail": "",
+    "event_type": "new_posts",
+    "id": 520,
+    "job_name": "daily_digest",
+    "message": "일일 다이제스트 2건 (2026-10-06~2026-10-06) | trigger_source=scheduled",
+    "status": "sent"
+  },
+  {
+    "alert_type": "discord",
+    "channel_type": "news",
+    "created_at": "2026-10-07T08:31:58.306421+09:00",
+    "error_detail": "",
+    "event_type": "new_posts",
+    "id": 519,
+    "job_name": "kisa_news",
+    "message": "KISA(보도자료) 신규 1건",
+    "status": "sent"
+  },
+  {
     "alert_type": "discord",
     "channel_type": "news",
     "created_at": "2026-10-06T15:16:55.939810+09:00",
@@ -525,28 +547,6 @@
     "id": 471,
     "job_name": "kisa_notice",
     "message": "KISA(공지사항) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/401 | page_len=118619",
-    "status": "sent"
-  },
-  {
-    "alert_type": "gmail",
-    "channel_type": "email",
-    "created_at": "2026-10-02T08:55:01.049649+09:00",
-    "error_detail": "",
-    "event_type": "new_posts",
-    "id": 470,
-    "job_name": "daily_digest",
-    "message": "일일 다이제스트 8건 (2026-10-01~2026-10-01) | trigger_source=scheduled",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "notify",
-    "created_at": "2026-10-02T08:31:59.800663+09:00",
-    "error_detail": "",
-    "event_type": "failure",
-    "id": 469,
-    "job_name": "kisa_news",
-    "message": "KISA(보도자료) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/402 | page_len=118619",
     "status": "sent"
   }
 ]
