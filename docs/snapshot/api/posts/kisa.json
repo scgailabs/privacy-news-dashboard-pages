@@ -1,6 +1,32 @@
 {
-  "count": 129,
+  "count": 131,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-10-08T13:46:47.666787+09:00",
+      "created_at": "2026-10-08T13:46:47.666787+09:00",
+      "hits": "8",
+      "id": 77992,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/402/form?postSeq=2646&page=1",
+      "post_date": "2026-10-08",
+      "post_number": "New",
+      "title": "한국인터넷진흥원 인사"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-10-08T13:46:47.666787+09:00",
+      "created_at": "2026-10-08T13:46:47.666787+09:00",
+      "hits": "9",
+      "id": 77991,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/402/form?postSeq=2647&page=1",
+      "post_date": "2026-10-08",
+      "post_number": "New",
+      "title": "“인공지능(AI)으로 맞서고 인공지능(AI)을 지키는 도전이 시작된다”"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -1683,5 +1709,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 129
+  "total_count": 131
 }
