@@ -1,6 +1,19 @@
 {
-  "count": 128,
+  "count": 129,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-10-08T10:46:35.925898+09:00",
+      "created_at": "2026-10-08T10:46:35.925898+09:00",
+      "hits": "21",
+      "id": 77741,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3780&page=1",
+      "post_date": "2026-10-08",
+      "post_number": "공지",
+      "title": "2026 AI 해킹 방어 대회(ACDC) 참가자 모집(~10.26(월), 14시까지)"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -1670,5 +1683,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 128
+  "total_count": 129
 }
