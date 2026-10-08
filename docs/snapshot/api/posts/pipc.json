@@ -1,6 +1,19 @@
 {
-  "count": 132,
+  "count": 133,
   "data": [
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-10-08T17:46:08.833140+09:00",
+      "created_at": "2026-10-08T17:46:08.833140+09:00",
+      "department": "법무감사담당관",
+      "hits": "16",
+      "id": 80651,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12564",
+      "post_date": "2026-10-08",
+      "post_number": "390",
+      "title": "2026년 개인정보보호 및 활용조사 안내문"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1722,5 +1735,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 132
+  "total_count": 133
 }
