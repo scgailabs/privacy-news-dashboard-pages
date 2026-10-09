@@ -1,6 +1,19 @@
 {
-  "count": 133,
+  "count": 134,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-10-09T08:31:09.471524+09:00",
+      "created_at": "2026-10-09T08:31:09.471524+09:00",
+      "department": "데이터안전정책과",
+      "hits": "264",
+      "id": 80731,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12565",
+      "post_date": "2026-10-08",
+      "post_number": "391",
+      "title": "「공공기관 가명정보 제공 실무안내서」 초안 공개 및 의견수렴"
+    },
     {
       "attachment": "No",
       "board_type": "공지사항",
@@ -1735,5 +1748,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 133
+  "total_count": 134
 }
