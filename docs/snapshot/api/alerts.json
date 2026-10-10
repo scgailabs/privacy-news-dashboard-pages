@@ -2,6 +2,28 @@
   {
     "alert_type": "discord",
     "channel_type": "notify",
+    "created_at": "2026-10-10T10:32:02.840774+09:00",
+    "error_detail": "",
+    "event_type": "failure",
+    "id": 546,
+    "job_name": "kisa_news",
+    "message": "KISA(보도자료) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/402 | page_len=118621",
+    "status": "sent"
+  },
+  {
+    "alert_type": "discord",
+    "channel_type": "notify",
+    "created_at": "2026-10-10T10:31:36.792391+09:00",
+    "error_detail": "",
+    "event_type": "failure",
+    "id": 545,
+    "job_name": "kisa_notice",
+    "message": "KISA(공지사항) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/401 | page_len=118621",
+    "status": "sent"
+  },
+  {
+    "alert_type": "discord",
+    "channel_type": "notify",
     "created_at": "2026-10-10T10:02:07.269744+09:00",
     "error_detail": "",
     "event_type": "failure",
@@ -523,28 +545,6 @@
     "error_detail": "",
     "event_type": "failure",
     "id": 497,
-    "job_name": "kisa_notice",
-    "message": "KISA(공지사항) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/401 | page_len=118619",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "notify",
-    "created_at": "2026-10-04T12:02:00.918923+09:00",
-    "error_detail": "",
-    "event_type": "failure",
-    "id": 496,
-    "job_name": "kisa_news",
-    "message": "KISA(보도자료) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/402 | page_len=118619",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "notify",
-    "created_at": "2026-10-04T12:01:33.722005+09:00",
-    "error_detail": "",
-    "event_type": "failure",
-    "id": 495,
     "job_name": "kisa_notice",
     "message": "KISA(공지사항) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/401 | page_len=118619",
     "status": "sent"
