@@ -1,6 +1,19 @@
 {
-  "count": 131,
+  "count": 132,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-10-12T09:01:38.434789+09:00",
+      "created_at": "2026-10-12T09:01:38.434789+09:00",
+      "hits": "2",
+      "id": 80684,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3779&page=1",
+      "post_date": "2026-10-08",
+      "post_number": "1548",
+      "title": "2026 KISA ESG경영 이해관계자 설문조사(~10.16, 금)"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1709,5 +1722,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 131
+  "total_count": 132
 }
