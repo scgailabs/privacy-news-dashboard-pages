@@ -1,6 +1,19 @@
 {
-  "count": 132,
+  "count": 133,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-10-12T12:01:48.896819+09:00",
+      "created_at": "2026-10-12T12:01:48.896819+09:00",
+      "hits": "23",
+      "id": 80891,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/402/form?postSeq=2648&page=1",
+      "post_date": "2026-10-08",
+      "post_number": "999",
+      "title": "한국인터넷진흥원-에스케이텔레콤, 음성 스팸 사각지대 줄여"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -1722,5 +1735,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 132
+  "total_count": 133
 }
