@@ -1,6 +1,17 @@
 [
   {
     "alert_type": "discord",
+    "channel_type": "news",
+    "created_at": "2026-10-12T15:46:54.043581+09:00",
+    "error_detail": "",
+    "event_type": "new_posts",
+    "id": 571,
+    "job_name": "pipc_notice",
+    "message": "개인정보보호위원회(공지사항) 신규 1건",
+    "status": "sent"
+  },
+  {
+    "alert_type": "discord",
     "channel_type": "notify",
     "created_at": "2026-10-12T15:02:02.307499+09:00",
     "error_detail": "",
@@ -536,17 +547,6 @@
     "id": 522,
     "job_name": "kisa_notice",
     "message": "KISA(공지사항) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/401 | page_len=118619",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "news",
-    "created_at": "2026-10-07T09:47:01.778679+09:00",
-    "error_detail": "",
-    "event_type": "new_posts",
-    "id": 521,
-    "job_name": "pipc_news",
-    "message": "개인정보보호위원회(보도자료) 신규 1건",
     "status": "sent"
   }
 ]
