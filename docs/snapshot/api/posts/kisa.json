@@ -1,6 +1,19 @@
 {
-  "count": 133,
+  "count": 134,
   "data": [
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-10-13T16:16:41.123242+09:00",
+      "created_at": "2026-10-13T16:16:41.123242+09:00",
+      "hits": "6",
+      "id": 81941,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3781&page=1",
+      "post_date": "2026-10-13",
+      "post_number": "공지",
+      "title": "「2026 블록체인 진흥주간」 개최 안내(11/25~26, 서울 코엑스)"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1735,5 +1748,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 133
+  "total_count": 134
 }
