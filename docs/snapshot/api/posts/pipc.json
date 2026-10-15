@@ -1,6 +1,32 @@
 {
-  "count": 135,
+  "count": 137,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-10-15T11:16:09.111411+09:00",
+      "created_at": "2026-10-15T11:16:09.111411+09:00",
+      "department": "국제협력담당관",
+      "hits": "12",
+      "id": 85871,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12582",
+      "post_date": "2026-10-15",
+      "post_number": "393",
+      "title": "「한국으로 이전된 개인정보의 처리와 관련한 개인정보보호법의 해석과 적용을 위한 보완규정」 일부개정안 행정예고"
+    },
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-10-15T11:01:12.071403+09:00",
+      "created_at": "2026-10-15T11:01:12.071403+09:00",
+      "department": "국제협력담당관",
+      "hits": "4",
+      "id": 85851,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12581",
+      "post_date": "2026-10-15",
+      "post_number": "393",
+      "title": "「한국으로 이전된 개인정보의 처리와 관련한 개인정보 보호법의 해석과 적용을 위한 보완규정」 일부개정안 행정예"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -1761,5 +1787,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 135
+  "total_count": 137
 }
