@@ -1,6 +1,19 @@
 {
-  "count": 137,
+  "count": 138,
   "data": [
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-10-16T18:16:14.597838+09:00",
+      "created_at": "2026-10-16T18:16:14.597838+09:00",
+      "department": "운영지원과",
+      "hits": "11",
+      "id": 87251,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12584",
+      "post_date": "2026-10-16",
+      "post_number": "394",
+      "title": "2026년 우수공무원 포상 후보자 공개검증"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -1787,5 +1800,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 137
+  "total_count": 138
 }
