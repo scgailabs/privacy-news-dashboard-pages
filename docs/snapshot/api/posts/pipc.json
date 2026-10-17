@@ -1,6 +1,19 @@
 {
-  "count": 138,
+  "count": 139,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-10-17T08:30:27.240971+09:00",
+      "created_at": "2026-10-17T08:30:27.240971+09:00",
+      "department": "자율보호정책과",
+      "hits": "513",
+      "id": 87281,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12585",
+      "post_date": "2026-10-16",
+      "post_number": "1328",
+      "title": "(보도참고)외부 설문도구 이용 시 개인정보 처리 준수 사항에 대해 보다 명확히 안내하겠습니다."
+    },
     {
       "attachment": "No",
       "board_type": "공지사항",
@@ -1800,5 +1813,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 138
+  "total_count": 139
 }
