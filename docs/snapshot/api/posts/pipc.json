@@ -1,6 +1,19 @@
 {
-  "count": 139,
+  "count": 140,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-10-19T10:00:26.623035+09:00",
+      "created_at": "2026-10-19T10:00:26.623035+09:00",
+      "department": "사전실태점검과",
+      "hits": "5",
+      "id": 89041,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12586",
+      "post_date": "2026-10-19",
+      "post_number": "1329",
+      "title": "개인정보 보호, 생활 속 실천과 사전 점검이 중요합니다"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1813,5 +1826,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 139
+  "total_count": 140
 }
