@@ -1,6 +1,16 @@
 {
-  "count": 40,
+  "count": 41,
   "data": [
+    {
+      "attachment": "Yes",
+      "collected_at": "2026-10-20T14:45:19.906187+09:00",
+      "created_at": "2026-10-20T14:45:19.906187+09:00",
+      "department": "법령정보총괄과",
+      "id": 45121,
+      "link": "https://www.moleg.go.kr/board.es?mid=a10501000000&bid=0048&act=view&list_no=158862&tag=&pageCntBySelf=10&nPage=1&keyField=&keyWord=&cg_code=",
+      "post_date": "2026-10-20",
+      "title": "국민의 생애주기에 맞춘 생활법령정보 서비스 발전 방안 논의"
+    },
     {
       "attachment": "Yes",
       "collected_at": "2026-10-12T10:00:18.987080+09:00",
@@ -406,5 +416,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "moleg_news",
-  "total_count": 40
+  "total_count": 41
 }
