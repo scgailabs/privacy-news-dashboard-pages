@@ -1,5 +1,16 @@
 [
   {
+    "alert_type": "gmail",
+    "channel_type": "email",
+    "created_at": "2026-10-21T08:55:00.994713+09:00",
+    "error_detail": "",
+    "event_type": "new_posts",
+    "id": 655,
+    "job_name": "daily_digest",
+    "message": "일일 다이제스트 2건 (2026-10-20~2026-10-20) | trigger_source=scheduled",
+    "status": "sent"
+  },
+  {
     "alert_type": "discord",
     "channel_type": "notify",
     "created_at": "2026-10-20T15:02:07.071859+09:00",
@@ -536,17 +547,6 @@
     "id": 606,
     "job_name": "kisa_news",
     "message": "KISA(보도자료) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/402 | page_len=118621",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "notify",
-    "created_at": "2026-10-15T18:31:36.264389+09:00",
-    "error_detail": "",
-    "event_type": "failure",
-    "id": 605,
-    "job_name": "kisa_notice",
-    "message": "KISA(공지사항) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/401 | page_len=118621",
     "status": "sent"
   }
 ]
