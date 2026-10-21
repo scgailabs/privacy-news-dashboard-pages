@@ -1,6 +1,16 @@
 {
-  "count": 35,
+  "count": 36,
   "data": [
+    {
+      "author": "관리자",
+      "bbsno": 20928,
+      "collected_at": "2026-10-21T10:47:12.040330+09:00",
+      "created_at": "2026-10-21T10:47:12.040330+09:00",
+      "id": 36,
+      "link": "https://www.privacy.go.kr/front/bbs/bbsView.do?bbsNo=BBSMSTR_000000000001&bbscttNo=20928",
+      "post_date": "2026-10-21",
+      "title": "개인정보 유출신고시스템 작업에 따른 서비스 일시 중단 및 대체 신고 방법 안내"
+    },
     {
       "author": "관리자",
       "bbsno": 20927,
@@ -356,5 +366,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "privacy",
-  "total_count": 35
+  "total_count": 36
 }
