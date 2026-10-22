@@ -1,6 +1,19 @@
 {
-  "count": 140,
+  "count": 141,
   "data": [
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-10-22T08:31:48.835973+09:00",
+      "created_at": "2026-10-22T08:31:48.835973+09:00",
+      "hits": "302",
+      "id": 88005,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3787&page=1",
+      "post_date": "2026-10-21",
+      "post_number": "1553",
+      "title": "「2026 블록체인 밋업데이(BCMD)」 31회차 교육생 모집(~11.13)"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1826,5 +1839,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 140
+  "total_count": 141
 }
