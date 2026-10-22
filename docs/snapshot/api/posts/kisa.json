@@ -1,6 +1,19 @@
 {
-  "count": 141,
+  "count": 142,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-10-22T15:31:43.080488+09:00",
+      "created_at": "2026-10-22T15:31:43.080488+09:00",
+      "hits": "1",
+      "id": 88565,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3788&page=1",
+      "post_date": "2026-10-22",
+      "post_number": "New",
+      "title": "2026년 KISA 제8기 국민소통 청년참여단 모집"
+    },
     {
       "attachment": "No",
       "board_type": "공지사항",
@@ -1839,5 +1852,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 141
+  "total_count": 142
 }
