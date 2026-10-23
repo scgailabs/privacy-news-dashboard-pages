@@ -1,6 +1,32 @@
 {
-  "count": 141,
+  "count": 143,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-10-23T10:01:09.667023+09:00",
+      "created_at": "2026-10-23T10:01:09.667023+09:00",
+      "department": "데이터안전정책과",
+      "hits": "4",
+      "id": 92331,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12589",
+      "post_date": "2026-10-23",
+      "post_number": "395",
+      "title": "2026년도 개인정보 이노베이션 존 운영기관 최종 지정 공고"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-10-23T10:00:26.099671+09:00",
+      "created_at": "2026-10-23T10:00:26.099671+09:00",
+      "department": "데이터안전정책과",
+      "hits": "2",
+      "id": 92321,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12590",
+      "post_date": "2026-10-23",
+      "post_number": "1331",
+      "title": "대구디지털혁신진흥원 ‘개인정보 이노베이션 존’ 본격 운영 시작"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1839,5 +1865,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 141
+  "total_count": 143
 }
