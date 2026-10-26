@@ -1,6 +1,19 @@
 {
-  "count": 142,
+  "count": 143,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-10-26T10:01:41.400787+09:00",
+      "created_at": "2026-10-26T10:01:41.400787+09:00",
+      "hits": "22",
+      "id": 91045,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3789&page=1",
+      "post_date": "2026-10-26",
+      "post_number": "New",
+      "title": "[접수중] 가명정보 활용 지원체계 성과공유회 안내"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -1852,5 +1865,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 142
+  "total_count": 143
 }
