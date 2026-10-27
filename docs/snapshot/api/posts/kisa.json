@@ -1,6 +1,19 @@
 {
-  "count": 143,
+  "count": 144,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-10-27T15:01:47.515377+09:00",
+      "created_at": "2026-10-27T15:01:47.515377+09:00",
+      "hits": "0",
+      "id": 92191,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/402/form?postSeq=2651&page=1",
+      "post_date": "2026-10-26",
+      "post_number": "1002",
+      "title": "한국인터넷진흥원, 선박 사이버 침해 대응 성능 시험장 첫 공개"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -1865,5 +1878,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 143
+  "total_count": 144
 }
