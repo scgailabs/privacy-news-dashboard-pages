@@ -1,6 +1,19 @@
 {
-  "count": 144,
+  "count": 145,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-10-28T16:00:26.947780+09:00",
+      "created_at": "2026-10-28T16:00:26.947780+09:00",
+      "department": "데이터안전정책과",
+      "hits": "3",
+      "id": 96901,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12597",
+      "post_date": "2026-10-28",
+      "post_number": "1333",
+      "title": "개인정보위, 가명정보 활용 현장 경험 공유하고 새로운 연구·사업 기획 지원한다"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1878,5 +1891,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 144
+  "total_count": 145
 }
