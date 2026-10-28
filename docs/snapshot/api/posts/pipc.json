@@ -1,6 +1,19 @@
 {
-  "count": 143,
+  "count": 144,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-10-28T11:30:25.959137+09:00",
+      "created_at": "2026-10-28T11:30:25.959137+09:00",
+      "department": "운영지원과",
+      "hits": "6",
+      "id": 96541,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12596",
+      "post_date": "2026-10-28",
+      "post_number": "1332",
+      "title": "(인사발령) 개인정보보호위원회 인사발령('26.10.28.자)"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -1865,5 +1878,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 143
+  "total_count": 144
 }
