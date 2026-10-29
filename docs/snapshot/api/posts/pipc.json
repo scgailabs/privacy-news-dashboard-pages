@@ -1,6 +1,32 @@
 {
-  "count": 145,
+  "count": 147,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-10-29T11:00:26.340425+09:00",
+      "created_at": "2026-10-29T11:00:26.340425+09:00",
+      "department": "조사2과",
+      "hits": "7",
+      "id": 97322,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12600",
+      "post_date": "2026-10-29",
+      "post_number": "1335",
+      "title": "개인정보위, 안전조치 의무 위반 2개 사업자에 38억 8,500만 원 과징금 부과"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-10-29T11:00:26.340425+09:00",
+      "created_at": "2026-10-29T11:00:26.340425+09:00",
+      "department": "사전실태점검과",
+      "hits": "4",
+      "id": 97321,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12601",
+      "post_date": "2026-10-29",
+      "post_number": "1336",
+      "title": "고객센터 개인정보, 불필요한 조회·이용과 일괄 노출 막도록 보호 강화"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1891,5 +1917,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 145
+  "total_count": 147
 }
