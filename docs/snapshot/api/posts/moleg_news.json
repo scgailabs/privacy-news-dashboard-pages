@@ -1,6 +1,16 @@
 {
-  "count": 44,
+  "count": 45,
   "data": [
+    {
+      "attachment": "Yes",
+      "collected_at": "2026-10-29T14:30:18.950815+09:00",
+      "created_at": "2026-10-29T14:30:18.950815+09:00",
+      "department": "법제조정법제관실",
+      "id": 48801,
+      "link": "https://www.moleg.go.kr/board.es?mid=a10501000000&bid=0048&act=view&list_no=159339&tag=&pageCntBySelf=10&nPage=1&keyField=&keyWord=&cg_code=",
+      "post_date": "2026-10-29",
+      "title": "법제처, 아동ㆍ청소년 대상 성범죄 예방을 위한 현장 간담회 개최"
+    },
     {
       "attachment": "Yes",
       "collected_at": "2026-10-29T10:15:19.676658+09:00",
@@ -446,5 +456,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "moleg_news",
-  "total_count": 44
+  "total_count": 45
 }
