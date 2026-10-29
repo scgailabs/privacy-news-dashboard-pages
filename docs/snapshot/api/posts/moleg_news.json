@@ -1,6 +1,16 @@
 {
-  "count": 43,
+  "count": 44,
   "data": [
+    {
+      "attachment": "Yes",
+      "collected_at": "2026-10-29T10:15:19.676658+09:00",
+      "created_at": "2026-10-29T10:15:19.676658+09:00",
+      "department": "대변인실",
+      "id": 48631,
+      "link": "https://www.moleg.go.kr/board.es?mid=a10501000000&bid=0048&act=view&list_no=159333&tag=&pageCntBySelf=10&nPage=1&keyField=&keyWord=&cg_code=",
+      "post_date": "2026-10-29",
+      "title": "전통시장에서 찾는 일상 속 법 보물... K-법 생활발견 캠페인 ‘숨은 법 보물찾기’ 개최"
+    },
     {
       "attachment": "Yes",
       "collected_at": "2026-10-27T13:30:19.056395+09:00",
@@ -436,5 +446,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "moleg_news",
-  "total_count": 43
+  "total_count": 44
 }
