@@ -1,5 +1,38 @@
 [
   {
+    "alert_type": "discord",
+    "channel_type": "notify",
+    "created_at": "2026-10-30T10:47:04.302928+09:00",
+    "error_detail": "",
+    "event_type": "failure",
+    "id": 760,
+    "job_name": "kisa_news",
+    "message": "KISA(보도자료) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/402 | page_len=118621",
+    "status": "sent"
+  },
+  {
+    "alert_type": "discord",
+    "channel_type": "notify",
+    "created_at": "2026-10-30T10:46:38.332200+09:00",
+    "error_detail": "",
+    "event_type": "failure",
+    "id": 759,
+    "job_name": "kisa_notice",
+    "message": "KISA(공지사항) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/401 | page_len=118621",
+    "status": "sent"
+  },
+  {
+    "alert_type": "discord",
+    "channel_type": "news",
+    "created_at": "2026-10-30T10:31:54.457749+09:00",
+    "error_detail": "",
+    "event_type": "new_posts",
+    "id": 758,
+    "job_name": "moleg_news",
+    "message": "법제처(보도자료) 신규 1건",
+    "status": "sent"
+  },
+  {
     "alert_type": "gmail",
     "channel_type": "email",
     "created_at": "2026-10-30T08:55:01.004486+09:00",
@@ -514,39 +547,6 @@
     "id": 711,
     "job_name": "kisa_notice",
     "message": "KISA(공지사항) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/401 | page_len=118621",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "notify",
-    "created_at": "2026-10-26T09:02:02.014279+09:00",
-    "error_detail": "",
-    "event_type": "failure",
-    "id": 710,
-    "job_name": "kisa_news",
-    "message": "KISA(보도자료) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/402 | page_len=118621",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "notify",
-    "created_at": "2026-10-26T09:01:36.666982+09:00",
-    "error_detail": "",
-    "event_type": "failure",
-    "id": 709,
-    "job_name": "kisa_notice",
-    "message": "KISA(공지사항) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/401 | page_len=118621",
-    "status": "sent"
-  },
-  {
-    "alert_type": "gmail",
-    "channel_type": "email",
-    "created_at": "2026-10-26T08:55:01.183561+09:00",
-    "error_detail": "",
-    "event_type": "new_posts",
-    "id": 708,
-    "job_name": "daily_digest",
-    "message": "일일 다이제스트 2건 (2026-10-23~2026-10-25) | trigger_source=scheduled",
     "status": "sent"
   }
 ]

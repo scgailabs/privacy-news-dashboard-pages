@@ -1,6 +1,16 @@
 {
-  "count": 45,
+  "count": 46,
   "data": [
+    {
+      "attachment": "Yes",
+      "collected_at": "2026-10-30T10:30:19.059936+09:00",
+      "created_at": "2026-10-30T10:30:19.059936+09:00",
+      "department": "법령정비지원과",
+      "id": 49051,
+      "link": "https://www.moleg.go.kr/board.es?mid=a10501000000&bid=0048&act=view&list_no=159415&tag=&pageCntBySelf=10&nPage=1&keyField=&keyWord=&cg_code=",
+      "post_date": "2026-10-30",
+      "title": "문화ㆍ관광ㆍ산업 등 분야 어려운 법령, 한눈에 이해되는 시각 콘텐츠로 본다"
+    },
     {
       "attachment": "Yes",
       "collected_at": "2026-10-29T14:30:18.950815+09:00",
@@ -456,5 +466,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "moleg_news",
-  "total_count": 45
+  "total_count": 46
 }
