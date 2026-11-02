@@ -2,6 +2,39 @@
   {
     "alert_type": "discord",
     "channel_type": "notify",
+    "created_at": "2026-11-02T17:47:04.569652+09:00",
+    "error_detail": "",
+    "event_type": "failure",
+    "id": 783,
+    "job_name": "kisa_news",
+    "message": "KISA(보도자료) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/402 | page_len=118619",
+    "status": "sent"
+  },
+  {
+    "alert_type": "discord",
+    "channel_type": "notify",
+    "created_at": "2026-11-02T17:46:37.231714+09:00",
+    "error_detail": "",
+    "event_type": "failure",
+    "id": 782,
+    "job_name": "kisa_notice",
+    "message": "KISA(공지사항) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/401 | page_len=118619",
+    "status": "sent"
+  },
+  {
+    "alert_type": "discord",
+    "channel_type": "news",
+    "created_at": "2026-11-02T17:31:47.764325+09:00",
+    "error_detail": "",
+    "event_type": "new_posts",
+    "id": 781,
+    "job_name": "kisa_notice",
+    "message": "KISA(공지사항) 신규 1건",
+    "status": "sent"
+  },
+  {
+    "alert_type": "discord",
+    "channel_type": "notify",
     "created_at": "2026-11-02T11:47:01.861105+09:00",
     "error_detail": "",
     "event_type": "failure",
@@ -512,39 +545,6 @@
     "error_detail": "",
     "event_type": "failure",
     "id": 734,
-    "job_name": "kisa_news",
-    "message": "KISA(보도자료) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/402 | page_len=118621",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "notify",
-    "created_at": "2026-10-27T18:16:34.789208+09:00",
-    "error_detail": "",
-    "event_type": "failure",
-    "id": 733,
-    "job_name": "kisa_notice",
-    "message": "KISA(공지사항) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/401 | page_len=118621",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "news",
-    "created_at": "2026-10-27T18:02:02.656019+09:00",
-    "error_detail": "",
-    "event_type": "new_posts",
-    "id": 732,
-    "job_name": "kisa_notice",
-    "message": "KISA(공지사항) 신규 1건",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "notify",
-    "created_at": "2026-10-27T17:47:03.494966+09:00",
-    "error_detail": "",
-    "event_type": "failure",
-    "id": 731,
     "job_name": "kisa_news",
     "message": "KISA(보도자료) 실패: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/402 | page_len=118621",
     "status": "sent"
