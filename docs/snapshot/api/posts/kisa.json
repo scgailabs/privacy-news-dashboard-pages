@@ -1,6 +1,19 @@
 {
-  "count": 149,
+  "count": 150,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-11-03T08:31:42.965625+09:00",
+      "created_at": "2026-11-03T08:31:42.965625+09:00",
+      "hits": "18",
+      "id": 97011,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/402/form?postSeq=2653&page=1",
+      "post_date": "2026-11-03",
+      "post_number": "New",
+      "title": "한국인터넷진흥원 한국 침해사고대응팀(KrCERT/CC) 설립 30주년…국제 사이버보안 전문가 부산에 모인다"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -1943,5 +1956,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 149
+  "total_count": 150
 }

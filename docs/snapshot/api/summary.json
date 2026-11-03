@@ -1,36 +1,36 @@
 {
   "kisa": {
     "display_name": "KISA",
-    "last_collected": "2026-11-02T17:31:32.734533+09:00",
+    "last_collected": "2026-11-03T08:31:42.965625+09:00",
     "last_success": null,
-    "latest_post_date": "2026-11-02",
-    "total_count": 149
+    "latest_post_date": "2026-11-03",
+    "total_count": 150
   },
   "moleg_legis": {
     "display_name": "법제처(입법예고)",
-    "last_collected": "2026-09-16T12:15:11.569170+09:00",
-    "last_success": "2026-11-02T18:30:11.536479+09:00",
-    "latest_post_date": "2026-09-16",
-    "total_count": 12
+    "last_collected": "2026-11-03T08:30:11.326890+09:00",
+    "last_success": "2026-11-03T09:15:11.212022+09:00",
+    "latest_post_date": "2026-11-03",
+    "total_count": 13
   },
   "moleg_news": {
     "display_name": "법제처(보도자료)",
     "last_collected": "2026-11-02T09:15:19.070622+09:00",
-    "last_success": "2026-11-02T18:30:19.405842+09:00",
+    "last_success": "2026-11-03T09:15:18.816373+09:00",
     "latest_post_date": "2026-11-02",
     "total_count": 48
   },
   "pipc": {
     "display_name": "개인정보보호위원회",
-    "last_collected": "2026-10-29T12:00:25.841375+09:00",
+    "last_collected": "2026-11-03T08:31:09.544773+09:00",
     "last_success": null,
-    "latest_post_date": "2026-10-29",
-    "total_count": 148
+    "latest_post_date": "2026-11-03",
+    "total_count": 149
   },
   "privacy": {
     "display_name": "개인정보포털",
     "last_collected": "2026-10-26T14:01:53.055892+09:00",
-    "last_success": "2026-11-02T18:31:47.966377+09:00",
+    "last_success": "2026-11-03T09:16:45.421204+09:00",
     "latest_post_date": "2026-10-26",
     "total_count": 37
   }
