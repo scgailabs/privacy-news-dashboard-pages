@@ -1,6 +1,19 @@
 {
-  "count": 149,
+  "count": 150,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-11-03T10:00:25.681502+09:00",
+      "created_at": "2026-11-03T10:00:25.681502+09:00",
+      "department": "자율보호정책과",
+      "hits": "4",
+      "id": 101341,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12607",
+      "post_date": "2026-11-03",
+      "post_number": "1337",
+      "title": "사전예방 중심 보호체계 혁신, 인공지능 보안 대응 방향에 대해 각계가 함께 모색한다"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -1943,5 +1956,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 149
+  "total_count": 150
 }
