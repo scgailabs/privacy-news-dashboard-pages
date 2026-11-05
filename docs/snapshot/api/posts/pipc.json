@@ -1,6 +1,45 @@
 {
-  "count": 152,
+  "count": 155,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-11-05T16:15:27.222022+09:00",
+      "created_at": "2026-11-05T16:15:27.222022+09:00",
+      "department": "개인정보보호정책과",
+      "hits": "10",
+      "id": 103481,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12622",
+      "post_date": "2026-11-05",
+      "post_number": "1340",
+      "title": "「모두의 토론회」 로 모은 국민의 목소리 “AI 시대 개인정보, 유연한 처리·명확한 고지·확실한 거부권 필요"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-11-05T16:00:27.653512+09:00",
+      "created_at": "2026-11-05T16:00:27.653512+09:00",
+      "department": "신기술개인정보과",
+      "hits": "2",
+      "id": 103461,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12617",
+      "post_date": "2026-11-05",
+      "post_number": "1339",
+      "title": "에이전트·피지컬 인공지능(AI) 시대의 개인정보 보호, 기술에서 해법 찾는다"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-11-05T15:31:09.222570+09:00",
+      "created_at": "2026-11-05T15:31:09.222570+09:00",
+      "department": "자율보호정책과",
+      "hits": "3",
+      "id": 103431,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12621",
+      "post_date": "2026-11-05",
+      "post_number": "397",
+      "title": "2026년 제4기 개인정보 보호 교육 전문강사 선발 안내"
+    },
     {
       "attachment": "No",
       "board_type": "공지사항",
@@ -1982,5 +2021,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 152
+  "total_count": 155
 }
