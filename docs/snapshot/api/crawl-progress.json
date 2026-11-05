@@ -1,79 +1,79 @@
 [
   {
-    "completed_at": "2026-11-05T12:17:01.591323+09:00",
-    "current_step": 0,
+    "completed_at": "2026-11-05T13:16:45.331561+09:00",
+    "current_step": 1,
     "id": 7,
     "job_name": "kisa_news",
-    "message": "오류: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/402 | page_len=118619",
-    "started_at": "2026-11-05T12:16:37.456555+09:00",
-    "status": "failed",
+    "message": "10건 수집, 0건 신규",
+    "started_at": "2026-11-05T13:16:37.602711+09:00",
+    "status": "completed",
     "total_steps": 1,
-    "updated_at": "2026-11-05T12:17:01.591323+09:00"
+    "updated_at": "2026-11-05T13:16:45.331561+09:00"
   },
   {
-    "completed_at": "2026-11-05T12:16:35.386980+09:00",
-    "current_step": 0,
+    "completed_at": "2026-11-05T13:16:35.580337+09:00",
+    "current_step": 1,
     "id": 6,
     "job_name": "kisa_notice",
-    "message": "오류: selector_timeout: 행 셀렉터 및 fallback 탐지 실패 | url=https://www.kisa.or.kr/401 | page_len=118619",
-    "started_at": "2026-11-05T12:16:10.458895+09:00",
-    "status": "failed",
+    "message": "10건 수집, 0건 신규",
+    "started_at": "2026-11-05T13:16:13.964293+09:00",
+    "status": "completed",
     "total_steps": 1,
-    "updated_at": "2026-11-05T12:16:35.386980+09:00"
+    "updated_at": "2026-11-05T13:16:35.580337+09:00"
   },
   {
-    "completed_at": "2026-11-05T12:15:11.309878+09:00",
+    "completed_at": "2026-11-05T13:15:11.469863+09:00",
     "current_step": 1,
     "id": 2,
     "job_name": "moleg_legis",
     "message": "10건 수집, 0건 신규",
-    "started_at": "2026-11-05T12:15:00.438455+09:00",
+    "started_at": "2026-11-05T13:15:00.342373+09:00",
     "status": "completed",
     "total_steps": 1,
-    "updated_at": "2026-11-05T12:15:11.309878+09:00"
+    "updated_at": "2026-11-05T13:15:11.469863+09:00"
   },
   {
-    "completed_at": "2026-11-05T12:15:19.561306+09:00",
+    "completed_at": "2026-11-05T13:15:20.367155+09:00",
     "current_step": 1,
     "id": 1,
     "job_name": "moleg_news",
     "message": "10건 수집, 0건 신규",
-    "started_at": "2026-11-05T12:15:13.332181+09:00",
+    "started_at": "2026-11-05T13:15:13.491696+09:00",
     "status": "completed",
     "total_steps": 1,
-    "updated_at": "2026-11-05T12:15:19.561306+09:00"
+    "updated_at": "2026-11-05T13:15:20.367155+09:00"
   },
   {
-    "completed_at": "2026-11-05T12:15:25.782360+09:00",
+    "completed_at": "2026-11-05T13:15:28.159818+09:00",
     "current_step": 1,
     "id": 3,
     "job_name": "pipc_news",
     "message": "10건 수집, 0건 신규",
-    "started_at": "2026-11-05T12:15:21.583745+09:00",
+    "started_at": "2026-11-05T13:15:22.389421+09:00",
     "status": "completed",
     "total_steps": 1,
-    "updated_at": "2026-11-05T12:15:25.782360+09:00"
+    "updated_at": "2026-11-05T13:15:28.159818+09:00"
   },
   {
-    "completed_at": "2026-11-05T12:16:07.840976+09:00",
+    "completed_at": "2026-11-05T13:16:11.451776+09:00",
     "current_step": 1,
     "id": 4,
     "job_name": "pipc_notice",
     "message": "10건 수집, 0건 신규",
-    "started_at": "2026-11-05T12:15:27.805997+09:00",
+    "started_at": "2026-11-05T13:15:30.182437+09:00",
     "status": "completed",
     "total_steps": 1,
-    "updated_at": "2026-11-05T12:16:07.840976+09:00"
+    "updated_at": "2026-11-05T13:16:11.451776+09:00"
   },
   {
-    "completed_at": "2026-11-05T12:17:04.407907+09:00",
+    "completed_at": "2026-11-05T13:16:48.229671+09:00",
     "current_step": 1,
     "id": 5,
     "job_name": "privacy",
     "message": "신규 데이터 없음",
-    "started_at": "2026-11-05T12:17:04.111338+09:00",
+    "started_at": "2026-11-05T13:16:47.864006+09:00",
     "status": "completed",
     "total_steps": 1,
-    "updated_at": "2026-11-05T12:17:04.407907+09:00"
+    "updated_at": "2026-11-05T13:16:48.229671+09:00"
   }
 ]
