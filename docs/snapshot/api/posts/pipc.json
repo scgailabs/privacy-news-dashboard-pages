@@ -1,6 +1,19 @@
 {
-  "count": 151,
+  "count": 152,
   "data": [
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-11-05T14:31:15.045153+09:00",
+      "created_at": "2026-11-05T14:31:15.045153+09:00",
+      "department": "자율보호정책과",
+      "hits": "1",
+      "id": 103351,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12620",
+      "post_date": "2026-11-05",
+      "post_number": "397",
+      "title": "2026년 제4기 개인정보 보호 교육 전문강사 선발 안내"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1969,5 +1982,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 151
+  "total_count": 152
 }
