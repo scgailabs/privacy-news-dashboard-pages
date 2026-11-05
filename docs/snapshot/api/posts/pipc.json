@@ -1,6 +1,19 @@
 {
-  "count": 155,
+  "count": 156,
   "data": [
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-11-05T18:16:12.054121+09:00",
+      "created_at": "2026-11-05T18:16:12.054121+09:00",
+      "department": "운영지원과",
+      "hits": "1",
+      "id": 103651,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12623",
+      "post_date": "2026-11-05",
+      "post_number": "398",
+      "title": "2026년 하반기 모범공무원 포상 후보자 공개검증"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -2021,5 +2034,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 155
+  "total_count": 156
 }
