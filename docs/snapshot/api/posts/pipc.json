@@ -1,6 +1,32 @@
 {
-  "count": 157,
+  "count": 159,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-11-09T10:01:11.538265+09:00",
+      "created_at": "2026-11-09T10:01:11.538265+09:00",
+      "department": "사전실태점검과",
+      "hits": "6",
+      "id": 106271,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12627",
+      "post_date": "2026-11-09",
+      "post_number": "401",
+      "title": "글로벌 신기술·개인정보 심층분석 보고서(스마트 글래스 편)"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-11-09T10:00:25.158449+09:00",
+      "created_at": "2026-11-09T10:00:25.158449+09:00",
+      "department": "신기술개인정보과",
+      "hits": "4",
+      "id": 106261,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12628",
+      "post_date": "2026-11-09",
+      "post_number": "1342",
+      "title": "개인정보위, 스마트 글래스 이용 시 유의사항 당부"
+    },
     {
       "attachment": "No",
       "board_type": "공지사항",
@@ -2047,5 +2073,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 157
+  "total_count": 159
 }
