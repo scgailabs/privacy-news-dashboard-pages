@@ -1,6 +1,19 @@
 {
-  "count": 154,
+  "count": 155,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-11-09T15:46:45.245509+09:00",
+      "created_at": "2026-11-09T15:46:45.245509+09:00",
+      "hits": "14",
+      "id": 102311,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/402/form?postSeq=2656&page=1",
+      "post_date": "2026-11-09",
+      "post_number": "New",
+      "title": "대한민국 차세대 보안 리더, 대만 국제 해킹대회 우승!"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -2008,5 +2021,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 154
+  "total_count": 155
 }
