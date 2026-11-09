@@ -1,6 +1,32 @@
 {
-  "count": 152,
+  "count": 154,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-11-09T09:16:50.498579+09:00",
+      "created_at": "2026-11-09T09:16:50.498579+09:00",
+      "hits": "14",
+      "id": 101792,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/402/form?postSeq=2654&page=1",
+      "post_date": "2026-11-06",
+      "post_number": "1005",
+      "title": "업데이트 놓친 소프트웨어, 백신이 찾아…올해 555만 건 조치"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-11-09T09:16:50.498579+09:00",
+      "created_at": "2026-11-09T09:16:50.498579+09:00",
+      "hits": "10",
+      "id": 101791,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/402/form?postSeq=2655&page=1",
+      "post_date": "2026-11-06",
+      "post_number": "1006",
+      "title": "한국인터넷진흥원, 전국 16개 지역정보보호지원센터 구축 완료"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -1982,5 +2008,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 152
+  "total_count": 154
 }

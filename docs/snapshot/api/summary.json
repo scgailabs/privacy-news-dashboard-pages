@@ -1,22 +1,22 @@
 {
   "kisa": {
     "display_name": "KISA",
-    "last_collected": "2026-11-03T15:01:45.015170+09:00",
+    "last_collected": "2026-11-09T09:16:50.498579+09:00",
     "last_success": null,
-    "latest_post_date": "2026-11-03",
-    "total_count": 152
+    "latest_post_date": "2026-11-06",
+    "total_count": 154
   },
   "moleg_legis": {
     "display_name": "법제처(입법예고)",
     "last_collected": "2026-11-03T08:30:11.326890+09:00",
-    "last_success": "2026-11-08T18:30:11.935648+09:00",
+    "last_success": "2026-11-09T09:15:11.862846+09:00",
     "latest_post_date": "2026-11-03",
     "total_count": 13
   },
   "moleg_news": {
     "display_name": "법제처(보도자료)",
     "last_collected": "2026-11-02T09:15:19.070622+09:00",
-    "last_success": "2026-11-08T18:30:20.343049+09:00",
+    "last_success": "2026-11-09T09:15:19.471132+09:00",
     "latest_post_date": "2026-11-02",
     "total_count": 48
   },
@@ -30,7 +30,7 @@
   "privacy": {
     "display_name": "개인정보포털",
     "last_collected": "2026-10-26T14:01:53.055892+09:00",
-    "last_success": "2026-11-08T18:31:52.365748+09:00",
+    "last_success": "2026-11-09T09:16:53.564892+09:00",
     "latest_post_date": "2026-10-26",
     "total_count": 37
   }
