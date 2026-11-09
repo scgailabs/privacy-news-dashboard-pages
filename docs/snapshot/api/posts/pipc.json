@@ -1,6 +1,19 @@
 {
-  "count": 159,
+  "count": 160,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-11-09T15:00:27.056513+09:00",
+      "created_at": "2026-11-09T15:00:27.056513+09:00",
+      "department": "자율보호정책과",
+      "hits": "5",
+      "id": 106661,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12629",
+      "post_date": "2026-11-09",
+      "post_number": "1342",
+      "title": "개인정보위, 민간과 함께 인공지능 침해 위협에 대응하는 보호체계 정착방안 모색"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -2073,5 +2086,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 159
+  "total_count": 160
 }
