@@ -1,6 +1,32 @@
 {
-  "count": 160,
+  "count": 162,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-11-10T10:15:26.825003+09:00",
+      "created_at": "2026-11-10T10:15:26.825003+09:00",
+      "department": "대변인실",
+      "hits": "18",
+      "id": 107101,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12644",
+      "post_date": "2026-11-10",
+      "post_number": "1343",
+      "title": "‘내 개인정보를 지키는 꿀팁’.. 개인정보위, 숏폼 콘텐츠 공모전 개최"
+    },
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-11-10T10:01:13.182404+09:00",
+      "created_at": "2026-11-10T10:01:13.182404+09:00",
+      "department": "디지털소통팀",
+      "hits": "15",
+      "id": 107092,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12625",
+      "post_date": "2026-11-10",
+      "post_number": "400",
+      "title": "개인정보 보호 숏폼 콘텐츠 공모전 안내"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -2086,5 +2112,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 160
+  "total_count": 162
 }
