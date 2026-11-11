@@ -1,6 +1,19 @@
 {
-  "count": 162,
+  "count": 163,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-11-11T10:00:25.144589+09:00",
+      "created_at": "2026-11-11T10:00:25.144589+09:00",
+      "department": "개인정보보호정책과",
+      "hits": "4",
+      "id": 107901,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12646",
+      "post_date": "2026-11-11",
+      "post_number": "1344",
+      "title": "아동·청소년부터 사망자까지, 개인정보 보호체계 개선 논의"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -2112,5 +2125,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 162
+  "total_count": 163
 }
