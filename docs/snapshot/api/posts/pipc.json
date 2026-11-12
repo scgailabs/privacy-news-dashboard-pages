@@ -1,6 +1,45 @@
 {
-  "count": 163,
+  "count": 166,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-11-12T10:00:26.777223+09:00",
+      "created_at": "2026-11-12T10:00:26.777223+09:00",
+      "department": "조사2과",
+      "hits": "4",
+      "id": 108723,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12647",
+      "post_date": "2026-11-12",
+      "post_number": "1345",
+      "title": "개인정보위, 8개 알뜰폰 사업자의 개인정보 처리에 대한 조사 결과 발표"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-11-12T10:00:26.777223+09:00",
+      "created_at": "2026-11-12T10:00:26.777223+09:00",
+      "department": "조사1과",
+      "hits": "2",
+      "id": 108722,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12648",
+      "post_date": "2026-11-12",
+      "post_number": "1346",
+      "title": "개인정보위, 안전조치 의무 위반한삼양그룹 소속 4개사 제재"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-11-12T10:00:26.777223+09:00",
+      "created_at": "2026-11-12T10:00:26.777223+09:00",
+      "department": "사전실태점검과",
+      "hits": "1",
+      "id": 108721,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12649",
+      "post_date": "2026-11-12",
+      "post_number": "1347",
+      "title": "개인정보위, 에듀테크 분야 개인정보 처리 실태점검 결과 발표"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -2125,5 +2164,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 163
+  "total_count": 166
 }
