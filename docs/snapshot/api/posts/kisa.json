@@ -1,6 +1,19 @@
 {
-  "count": 156,
+  "count": 157,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-11-12T12:01:43.658785+09:00",
+      "created_at": "2026-11-12T12:01:43.658785+09:00",
+      "hits": "5",
+      "id": 104471,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/402/form?postSeq=2657&page=1",
+      "post_date": "2026-11-11",
+      "post_number": "1009",
+      "title": "시중 유통 아이피(IP) 카메라 10개 제품 보안 점검"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -2034,5 +2047,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 156
+  "total_count": 157
 }

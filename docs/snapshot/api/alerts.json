@@ -2,6 +2,17 @@
   {
     "alert_type": "discord",
     "channel_type": "news",
+    "created_at": "2026-11-12T12:01:49.257569+09:00",
+    "error_detail": "",
+    "event_type": "new_posts",
+    "id": 840,
+    "job_name": "kisa_news",
+    "message": "KISA(보도자료) 신규 1건",
+    "status": "sent"
+  },
+  {
+    "alert_type": "discord",
+    "channel_type": "news",
     "created_at": "2026-11-12T10:01:45.377820+09:00",
     "error_detail": "",
     "event_type": "new_posts",
@@ -536,17 +547,6 @@
     "id": 791,
     "job_name": "pipc_news",
     "message": "개인정보보호위원회(보도자료) 신규 1건",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "news",
-    "created_at": "2026-11-03T09:46:50.271716+09:00",
-    "error_detail": "",
-    "event_type": "new_posts",
-    "id": 790,
-    "job_name": "kisa_notice",
-    "message": "KISA(공지사항) 신규 1건",
     "status": "sent"
   }
 ]
