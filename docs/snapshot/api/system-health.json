@@ -25,45 +25,45 @@
   "heartbeats": [
     {
       "detail": "heartbeat",
-      "id": 193539,
+      "id": 193599,
       "job_name": "",
       "service_name": "privacy-news-crawler",
       "status": "alive",
-      "updated_at": "Fri, 13 Nov 2026 14:19:29 GMT"
+      "updated_at": "Fri, 13 Nov 2026 15:19:29 GMT"
     },
     {
       "detail": "heartbeat",
-      "id": 193538,
+      "id": 193598,
       "job_name": "",
       "service_name": "privacy-news-crawler",
       "status": "alive",
-      "updated_at": "Fri, 13 Nov 2026 14:18:29 GMT"
+      "updated_at": "Fri, 13 Nov 2026 15:18:29 GMT"
     },
     {
       "detail": "heartbeat",
-      "id": 193537,
+      "id": 193597,
       "job_name": "",
       "service_name": "privacy-news-crawler",
       "status": "alive",
-      "updated_at": "Fri, 13 Nov 2026 14:17:29 GMT"
+      "updated_at": "Fri, 13 Nov 2026 15:17:29 GMT"
     },
     {
       "detail": "heartbeat",
-      "id": 193536,
+      "id": 193596,
       "job_name": "",
       "service_name": "privacy-news-crawler",
       "status": "alive",
-      "updated_at": "Fri, 13 Nov 2026 14:16:29 GMT"
+      "updated_at": "Fri, 13 Nov 2026 15:16:29 GMT"
     },
     {
       "detail": "heartbeat",
-      "id": 193535,
+      "id": 193595,
       "job_name": "",
       "service_name": "privacy-news-crawler",
       "status": "alive",
-      "updated_at": "Fri, 13 Nov 2026 14:15:29 GMT"
+      "updated_at": "Fri, 13 Nov 2026 15:15:29 GMT"
     }
   ],
   "selenium": "ready",
-  "timestamp": "2026-11-13T23:20:00.328202"
+  "timestamp": "2026-11-14T00:20:00.343679"
 }
