@@ -1,6 +1,19 @@
 {
-  "count": 166,
+  "count": 167,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-11-13T10:00:26.024808+09:00",
+      "created_at": "2026-11-13T10:00:26.024808+09:00",
+      "department": "개인정보보호정책과",
+      "hits": "8",
+      "id": 109541,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12654",
+      "post_date": "2026-11-13",
+      "post_number": "1348",
+      "title": "아동‧청소년의 목소리, 개인정보 보호정책에 담는다"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -2164,5 +2177,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 166
+  "total_count": 167
 }
