@@ -1,6 +1,16 @@
 {
-  "count": 49,
+  "count": 50,
   "data": [
+    {
+      "attachment": "Yes",
+      "collected_at": "2026-11-13T15:30:20.406327+09:00",
+      "created_at": "2026-11-13T15:30:20.406327+09:00",
+      "department": "국가법령정보센터",
+      "id": 54991,
+      "link": "https://www.moleg.go.kr/board.es?mid=a10501000000&bid=0048&act=view&list_no=160247&tag=&pageCntBySelf=10&nPage=1&keyField=&keyWord=&cg_code=",
+      "post_date": "2026-11-13",
+      "title": "“누구나 쉽고 가깝게”… 국가법령정보센터, 국민 눈높이에 맞춰 새 단장"
+    },
     {
       "attachment": "Yes",
       "collected_at": "2026-11-13T14:00:20.577731+09:00",
@@ -496,5 +506,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "moleg_news",
-  "total_count": 49
+  "total_count": 50
 }
