@@ -1,6 +1,19 @@
 {
-  "count": 167,
+  "count": 168,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-11-16T13:30:25.246215+09:00",
+      "created_at": "2026-11-16T13:30:25.246215+09:00",
+      "department": "국제협력담당관",
+      "hits": "14",
+      "id": 112281,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12656",
+      "post_date": "2026-11-16",
+      "post_number": "1349",
+      "title": "개인정보위, 중남미로 개인정보 보호 협력 네트워크 확대"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -2177,5 +2190,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 167
+  "total_count": 168
 }
