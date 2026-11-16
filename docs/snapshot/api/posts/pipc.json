@@ -1,6 +1,19 @@
 {
-  "count": 168,
+  "count": 169,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-11-16T17:00:26.735401+09:00",
+      "created_at": "2026-11-16T17:00:26.735401+09:00",
+      "department": "국제협력담당관",
+      "hits": "4",
+      "id": 112561,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12657",
+      "post_date": "2026-11-16",
+      "post_number": "1350",
+      "title": "개인정보위, 글로벌 개인정보 감독기구협의체 GPA 총회 주도"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -2190,5 +2203,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 168
+  "total_count": 169
 }
