@@ -1,6 +1,19 @@
 {
-  "count": 158,
+  "count": 159,
   "data": [
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-11-16T10:46:43.065497+09:00",
+      "created_at": "2026-11-16T10:46:43.065497+09:00",
+      "hits": "20",
+      "id": 107641,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3798&page=1",
+      "post_date": "2026-11-16",
+      "post_number": "공지",
+      "title": "[접수중] 2026 정보보호 해외진출 전략거점 성과발표회 개최 안내"
+    },
     {
       "attachment": "No",
       "board_type": "공지사항",
@@ -2060,5 +2073,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 158
+  "total_count": 159
 }
