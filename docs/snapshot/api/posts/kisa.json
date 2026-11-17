@@ -1,6 +1,19 @@
 {
-  "count": 160,
+  "count": 161,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-11-17T18:01:43.697844+09:00",
+      "created_at": "2026-11-17T18:01:43.697844+09:00",
+      "hits": "20",
+      "id": 109041,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3800&page=1",
+      "post_date": "2026-11-17",
+      "post_number": "공지",
+      "title": "2026년 미래암호워크숍 개최 안내('26.11.24. 화 14:00~15:30)"
+    },
     {
       "attachment": "No",
       "board_type": "공지사항",
@@ -2086,5 +2099,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 160
+  "total_count": 161
 }
