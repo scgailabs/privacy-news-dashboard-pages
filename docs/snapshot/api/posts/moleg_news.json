@@ -1,6 +1,16 @@
 {
-  "count": 50,
+  "count": 51,
   "data": [
+    {
+      "attachment": "Yes",
+      "collected_at": "2026-11-18T10:15:19.144094+09:00",
+      "created_at": "2026-11-18T10:15:19.144094+09:00",
+      "department": "자치법제지원과",
+      "id": 56831,
+      "link": "https://www.moleg.go.kr/board.es?mid=a10501000000&bid=0048&act=view&list_no=160454&tag=&pageCntBySelf=10&nPage=1&keyField=&keyWord=&cg_code=",
+      "post_date": "2026-11-18",
+      "title": "지역사회 문제 해결에 도움되는 자치법규 제정ㆍ개정, 법제처가 도와드립니다!"
+    },
     {
       "attachment": "Yes",
       "collected_at": "2026-11-13T15:30:20.406327+09:00",
@@ -506,5 +516,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "moleg_news",
-  "total_count": 50
+  "total_count": 51
 }
