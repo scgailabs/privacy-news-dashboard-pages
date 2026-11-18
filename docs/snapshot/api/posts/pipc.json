@@ -1,6 +1,19 @@
 {
-  "count": 169,
+  "count": 170,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-11-18T18:00:27.019447+09:00",
+      "created_at": "2026-11-18T18:00:27.019447+09:00",
+      "department": "사전실태점검과",
+      "hits": "25",
+      "id": 114281,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12660",
+      "post_date": "2026-11-18",
+      "post_number": "1352",
+      "title": "개인정보위, Java 보안 취약점 관련 개인정보 대량 유출 예방조치 당부"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -2203,5 +2216,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 169
+  "total_count": 170
 }
