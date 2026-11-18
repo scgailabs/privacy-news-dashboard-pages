@@ -1,6 +1,19 @@
 {
-  "count": 161,
+  "count": 162,
   "data": [
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-11-18T14:16:43.851831+09:00",
+      "created_at": "2026-11-18T14:16:43.851831+09:00",
+      "hits": "7",
+      "id": 109561,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3801&page=1",
+      "post_date": "2026-11-18",
+      "post_number": "공지",
+      "title": "전자계약시스템 장애발생 관련 마감일자 변경 공지(2026.11.18.기준)"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -2099,5 +2112,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 161
+  "total_count": 162
 }
