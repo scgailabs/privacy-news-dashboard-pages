@@ -1,6 +1,19 @@
 {
-  "count": 164,
+  "count": 165,
   "data": [
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-11-19T15:46:47.839828+09:00",
+      "created_at": "2026-11-19T15:46:47.839828+09:00",
+      "hits": "17",
+      "id": 110501,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3804&page=1",
+      "post_date": "2026-11-19",
+      "post_number": "공지",
+      "title": "전자계약시스템 복구완료에 따른 마감기한 연장 공지"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -2138,5 +2151,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 164
+  "total_count": 165
 }
