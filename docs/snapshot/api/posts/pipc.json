@@ -1,6 +1,19 @@
 {
-  "count": 170,
+  "count": 171,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-11-19T10:00:28.020400+09:00",
+      "created_at": "2026-11-19T10:00:28.020400+09:00",
+      "department": "국제협력담당관",
+      "hits": "14",
+      "id": 114462,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12659",
+      "post_date": "2026-11-19",
+      "post_number": "1351",
+      "title": "개인정보위, 일본과 데이터 이전 및 인공지능 프라이버시 협력 강화"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -2216,5 +2229,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 170
+  "total_count": 171
 }
