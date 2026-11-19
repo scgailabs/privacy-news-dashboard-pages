@@ -1,6 +1,19 @@
 {
-  "count": 163,
+  "count": 164,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-11-19T08:31:42.853422+09:00",
+      "created_at": "2026-11-19T08:31:42.853422+09:00",
+      "hits": "529",
+      "id": 109921,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3802&page=1",
+      "post_date": "2026-11-18",
+      "post_number": "공지",
+      "title": "2026 ACDC(AI Cyber Defense Contest) 참관객 모집"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -2125,5 +2138,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 163
+  "total_count": 164
 }
