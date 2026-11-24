@@ -1,6 +1,19 @@
 {
-  "count": 168,
+  "count": 169,
   "data": [
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-11-24T08:31:55.283625+09:00",
+      "created_at": "2026-11-24T08:31:55.283625+09:00",
+      "hits": "450",
+      "id": 114026,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3806&page=1",
+      "post_date": "2026-11-23",
+      "post_number": "1571",
+      "title": "개정 정보통신망법 설명회 개최 안내(스페이스쉐어 삼성역센터 델피노홀, 11.25.)"
+    },
     {
       "attachment": "No",
       "board_type": "공지사항",
@@ -2190,5 +2203,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 168
+  "total_count": 169
 }
