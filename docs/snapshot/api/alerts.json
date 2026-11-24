@@ -2,6 +2,17 @@
   {
     "alert_type": "discord",
     "channel_type": "news",
+    "created_at": "2026-11-24T17:17:04.896292+09:00",
+    "error_detail": "",
+    "event_type": "new_posts",
+    "id": 876,
+    "job_name": "pipc_news",
+    "message": "개인정보보호위원회(보도자료) 신규 1건",
+    "status": "sent"
+  },
+  {
+    "alert_type": "discord",
+    "channel_type": "news",
     "created_at": "2026-11-24T16:17:05.406501+09:00",
     "error_detail": "",
     "event_type": "new_posts",
@@ -536,17 +547,6 @@
     "id": 827,
     "job_name": "pipc_news",
     "message": "개인정보보호위원회(보도자료) 신규 1건",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "notify",
-    "created_at": "2026-11-09T13:57:06.676847+09:00",
-    "error_detail": "",
-    "event_type": "service_start",
-    "id": 826,
-    "job_name": "",
-    "message": "크롤러 서비스 시작",
     "status": "sent"
   }
 ]
