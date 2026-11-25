@@ -1,6 +1,19 @@
 {
-  "count": 171,
+  "count": 172,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "공지사항",
+      "collected_at": "2026-11-25T14:16:46.322056+09:00",
+      "created_at": "2026-11-25T14:16:46.322056+09:00",
+      "hits": "24",
+      "id": 115301,
+      "is_notice": "O",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3808&page=1",
+      "post_date": "2026-11-25",
+      "post_number": "공지",
+      "title": "「2026 전자문서×전자서명 컨퍼런스」 개최 및 사전등록 안내('26. 12. 3.(목), 서울 피스앤파크컨벤션)"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -2229,5 +2242,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 171
+  "total_count": 172
 }
