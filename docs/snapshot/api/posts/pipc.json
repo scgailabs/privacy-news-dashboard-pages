@@ -1,6 +1,19 @@
 {
-  "count": 178,
+  "count": 179,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-11-26T12:00:26.162369+09:00",
+      "created_at": "2026-11-26T12:00:26.162369+09:00",
+      "department": "전략기획팀",
+      "hits": "12",
+      "id": 120363,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12668",
+      "post_date": "2026-11-26",
+      "post_number": "1356",
+      "title": "내 정보, 더 안전하게 전송하여 국민 편익 높인다"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -2320,5 +2333,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 178
+  "total_count": 179
 }
