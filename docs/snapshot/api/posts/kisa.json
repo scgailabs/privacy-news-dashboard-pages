@@ -1,6 +1,19 @@
 {
-  "count": 172,
+  "count": 173,
   "data": [
+    {
+      "attachment": "No",
+      "board_type": "공지사항",
+      "collected_at": "2026-11-26T08:31:55.090597+09:00",
+      "created_at": "2026-11-26T08:31:55.090597+09:00",
+      "hits": "6",
+      "id": 115666,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/401/form?postSeq=3810&page=1",
+      "post_date": "2026-11-26",
+      "post_number": "New",
+      "title": "2026년 하반기 침해사고 정보공유 세미나 개최(12/9, 포스코타워 역삼)"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -2242,5 +2255,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 172
+  "total_count": 173
 }
