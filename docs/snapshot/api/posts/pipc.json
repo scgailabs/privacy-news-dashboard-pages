@@ -1,6 +1,32 @@
 {
-  "count": 179,
+  "count": 181,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-11-26T15:00:27.085811+09:00",
+      "created_at": "2026-11-26T15:00:27.085811+09:00",
+      "department": "법무감사담당관",
+      "hits": "3",
+      "id": 120602,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12671",
+      "post_date": "2026-11-26",
+      "post_number": "1359",
+      "title": "개인정보위, 인공지능 기반 보이스피싱 탐지 서비스로 적극행정 우수사례 경진대회 대상 수상"
+    },
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-11-26T15:00:27.085811+09:00",
+      "created_at": "2026-11-26T15:00:27.085811+09:00",
+      "department": "혁신기획담당관",
+      "hits": "4",
+      "id": 120601,
+      "link": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12672",
+      "post_date": "2026-11-26",
+      "post_number": "1360",
+      "title": "「2026 개인정보 미래포럼」 제5차 전체회의 개최"
+    },
     {
       "attachment": "Yes",
       "board_type": "보도자료",
@@ -2333,5 +2359,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "pipc",
-  "total_count": 179
+  "total_count": 181
 }
