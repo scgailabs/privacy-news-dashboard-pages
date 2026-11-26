@@ -1,6 +1,16 @@
 {
-  "count": 55,
+  "count": 56,
   "data": [
+    {
+      "attachment": "Yes",
+      "collected_at": "2026-11-26T15:45:19.164356+09:00",
+      "created_at": "2026-11-26T15:45:19.164356+09:00",
+      "department": "법령정비지원과",
+      "id": 60331,
+      "link": "https://www.moleg.go.kr/board.es?mid=a10501000000&bid=0048&act=view&list_no=160777&tag=&pageCntBySelf=10&nPage=1&keyField=&keyWord=&cg_code=",
+      "post_date": "2026-11-26",
+      "title": "국민의 아이디어를 통해 불편ㆍ불합리한 법령을 정비합니다"
+    },
     {
       "attachment": "Yes",
       "collected_at": "2026-11-25T15:00:20.914741+09:00",
@@ -556,5 +566,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "moleg_news",
-  "total_count": 55
+  "total_count": 56
 }
