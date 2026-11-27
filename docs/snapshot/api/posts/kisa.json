@@ -1,6 +1,19 @@
 {
-  "count": 174,
+  "count": 175,
   "data": [
+    {
+      "attachment": "Yes",
+      "board_type": "보도자료",
+      "collected_at": "2026-11-27T12:01:58.768471+09:00",
+      "created_at": "2026-11-27T12:01:58.768471+09:00",
+      "hits": "8",
+      "id": 116771,
+      "is_notice": "",
+      "link": "https://www.kisa.or.kr/402/form?postSeq=2661&page=1",
+      "post_date": "2026-11-26",
+      "post_number": "1013",
+      "title": "한국인터넷진흥원, 정보보호 기업 해외 진출 지원 성과 발표"
+    },
     {
       "attachment": "Yes",
       "board_type": "공지사항",
@@ -2268,5 +2281,5 @@
   "limit": 1000,
   "offset": 0,
   "site": "kisa",
-  "total_count": 174
+  "total_count": 175
 }
