@@ -2,6 +2,17 @@
   {
     "alert_type": "discord",
     "channel_type": "news",
+    "created_at": "2026-11-27T13:32:10.556741+09:00",
+    "error_detail": "",
+    "event_type": "new_posts",
+    "id": 893,
+    "job_name": "pipc_news",
+    "message": "개인정보보호위원회(보도자료) 신규 1건",
+    "status": "sent"
+  },
+  {
+    "alert_type": "discord",
+    "channel_type": "news",
     "created_at": "2026-11-27T12:02:04.261891+09:00",
     "error_detail": "",
     "event_type": "new_posts",
@@ -536,17 +547,6 @@
     "id": 844,
     "job_name": "moleg_news",
     "message": "법제처(보도자료) 신규 1건",
-    "status": "sent"
-  },
-  {
-    "alert_type": "discord",
-    "channel_type": "news",
-    "created_at": "2026-11-13T14:01:52.551734+09:00",
-    "error_detail": "",
-    "event_type": "new_posts",
-    "id": 843,
-    "job_name": "kisa_notice",
-    "message": "KISA(공지사항) 신규 1건",
     "status": "sent"
   }
 ]
